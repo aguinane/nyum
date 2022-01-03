@@ -13,6 +13,7 @@
 ,{"title":"Chocolate Squares","category":"snacks","cooktime":"PT20m","image":"chocolate-squares.jpg","veggie":"✓","tags":"snacks","description":"Guinane family recipe, slightly changed each generation.","htmlfile":"chocolate-squares.html","preptime":"PT10m"}
 ,{"title":"Cob Loaf","category":"sides","image":"cob-loaf.jpg","tags":"sides","htmlfile":"cob-loaf.html"}
 ,{"title":"Sweet Potato Mushroom &amp; Two Bean Cottage Pie","category":"mains","veggie":"✓","tags":"mains","htmlfile":"cottage-pie.html"}
+,{"title":"Creamy Potato Salad","category":"sides","layout":"recipe","veggie":"✓","tags":"sides","htmlfile":"creamy-potato-salad.html"}
 ,{"title":"Fruit Scones","category":"snacks","image":"fruit-scones.jpg","veggie":"✓","tags":"snacks","htmlfile":"fruit-scones.html"}
 ,{"title":"Golden Wheat Slice","category":"snacks","image":"golden-wheat-slice.jpg","veggie":"✓","tags":"snacks","htmlfile":"golden-wheat-slice.html"}
 ,{"title":"Harissa Traybake Chicken","category":"mains","image":"harissa-traybake-chicken.jpg","tags":"mains","htmlfile":"harissa-traybake-chicken.html"}
@@ -39,15 +40,18 @@
 ,{"title":"Overnight Porridge","category":"breakfasts","image":"overnight-porridge.jpg","veggie":"✓","tags":"breakfasts","htmlfile":"overnight-porridge.html"}
 ,{"title":"Pad Thai","category":"mains","image":"pad-thai.jpg","tags":"mains","htmlfile":"pad-thai.html"}
 ,{"title":"Party Punch","category":"drinks","image":"party-punch.jpg","veggie":"✓","tags":"drinks","description":"The famous Grimes party punch recipe from uni.","htmlfile":"party-punch.html"}
+,{"title":"Pikelets","category":"snacks","layout":"recipe","image":"pikelets.jpg","veggie":"✓","tags":"snacks","htmlfile":"pikelets.html"}
 ,{"title":"Pizza Scrolls","category":"snacks","image":"pizza-scrolls.jpg","veggie":"✓","tags":"snacks","htmlfile":"pizza-scrolls.html"}
 ,{"title":"Potato Bake","category":"sides","image":"potato-bake.jpg","tags":"sides","htmlfile":"potato-bake.html"}
 ,{"title":"Pumpkin Gingerbread","category":"snacks","image":"pumpkin-gingerbread.jpg","veggie":"✓","tags":"snacks","htmlfile":"pumpkin-gingerbread.html"}
 ,{"title":"Pumpkin Soup","category":"soups","image":"pumpkin-soup.jpg","veggie":"✓","tags":"soups","description":"Tasty entree and great for babies.","htmlfile":"pumpkin-soup.html"}
 ,{"title":"Raspberry Jam drops","category":"snacks","image":"raspberry-jam-drops.jpg","veggie":"✓","tags":"snacks","htmlfile":"raspberry-jam-drops.html"}
+,{"title":"Roast Lamb with Balsamic Glaze and Olive Tapenade","category":"mains","layout":"recipe","image":"roast-lamb.jpg","tags":"mains","htmlfile":"roast-lamb-with-balsamic-glaze-and-olive-tapenade.html"}
 ,{"title":"Sausage Rolls","category":"snacks","image":"sausage-rolls.jpg","tags":"snacks","htmlfile":"sausage-rolls.html"}
 ,{"title":"Spinach and Lentil Stew","category":"mains","veggie":"✓","tags":"mains","htmlfile":"spinach-and-lentil-stew.html"}
 ,{"title":"Spinach and Paneer Saag","category":"mains","image":"spinach-and-paneer-saag.jpg","veggie":"✓","tags":"mains","htmlfile":"spinach-and-paneer-saag.html"}
 ,{"title":"Sticky Date Pudding","category":"desserts","image":"sticky-date-pudding.jpg","veggie":"✓","tags":"desserts","htmlfile":"sticky-date-pudding.html"}
+,{"title":"Sweet Potato Salad","category":"salads","layout":"recipe","image":"sweet-potato.jpg","veggie":"✓","tags":"salads","htmlfile":"sweet-potato-salad.html"}
 ,{"title":"The Best Brownies","category":"snacks","veggie":"✓","tags":"snacks","htmlfile":"the-best-brownies.html"}
 ,{"title":"Trifle","category":"desserts","image":"trifle.jpg","tags":"desserts","description":"It’s not Christmas if you don’t make a trifle.","htmlfile":"trifle.html"}
 ,{"title":"Vanilla Slice","category":"desserts","image":"vanilla-slice.jpg","veggie":"✓","tags":"desserts","htmlfile":"vanilla-slice.html"}
