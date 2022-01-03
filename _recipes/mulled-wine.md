@@ -7,17 +7,17 @@ tags: drinks
 vegan: ✓
 ---
 
-* 3 bottles of cheap red wine
+* `3 bottles` of cheap red wine
 
 >>>The fruit makes it sweet so don't buy expensive wine.
 
 ---
 
-* 10 cloves
-* 2 cinnamon sticks
-* 1/4 cup sugar
-* 1 roughly grated nutmeg
-* 2 cups of water
+* `10` cloves
+* `2` cinnamon sticks
+* `1/4 cup` sugar
+* `1` roughly grated nutmeg
+* `2 cups` of water
 * oranges cut up
 
 > combine all ingredients in large pot

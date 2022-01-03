@@ -15,7 +15,6 @@ veggie: ✓
 * 2 Bags Ice
 * 3 Bottles (min) Vodka
 
-
 > Combine all ingredients, give it a stir and bobs your uncle.
 
 --- 

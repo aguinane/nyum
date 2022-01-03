@@ -12,13 +12,17 @@ category: desserts
 
 ---
 
-* 2 sponge cakes or jam rolls
+* `2` sponge cakes or jam rolls
 
 > Cut up cake into cubes in big bowl
 
 ---
 
-* custard (8 cups of milk)
+* custard (2x4 cups of milk)
+
+> Make custard
+
+--- 
 
 > Add custard on top and put in fridge until cool
 
