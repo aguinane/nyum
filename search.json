@@ -10,7 +10,7 @@
 ,{"title":"Choc Self Saucing Pudding (Mug)","category":"desserts","image":"choc-self-saucing-pudding-mug.jpg","veggie":"✓","tags":"desserts","description":"Not as nice as the <a href=\"choc-self-saucing-pudding.html\">proper recipe</a>, but much faster to make.","htmlfile":"choc-self-saucing-pudding-mug.html","time":"5m"}
 ,{"title":"Choc Self Saucing Pudding","category":"desserts","image":"choc-self-saucing-pudding.jpg","veggie":"✓","tags":"desserts","htmlfile":"choc-self-saucing-pudding.html","time":"30m"}
 ,{"title":"Chocolate Cake","category":"desserts","image":"chocolate-cake.jpg","veggie":"✓","tags":"desserts","htmlfile":"chocolate-cake.html"}
-,{"title":"Chocolate Squares","category":"snacks","cooktime":"PT20m","image":"chocolate-squares.jpg","veggie":"✓","tags":"snacks","description":"Guinane family recipe, slightly changed each generation.","htmlfile":"chocolate-squares.html","preptime":"PT10m"}
+,{"title":"Chocolate Squares","category":"snacks","cooktime":"PT20m","image":"chocolate-squares.jpg","tags":"snacks","description":"Guinane family recipe, slightly changed each generation.","htmlfile":"chocolate-squares.html","vegan":"✓","preptime":"PT10m"}
 ,{"title":"Cob Loaf","category":"sides","image":"cob-loaf.jpg","tags":"sides","htmlfile":"cob-loaf.html"}
 ,{"title":"Sweet Potato Mushroom &amp; Two Bean Cottage Pie","category":"mains","veggie":"✓","tags":"mains","htmlfile":"cottage-pie.html"}
 ,{"title":"Creamy Potato Salad","category":"sides","layout":"recipe","veggie":"✓","tags":"sides","htmlfile":"creamy-potato-salad.html"}
