@@ -1,6 +1,7 @@
 ---
 title:  "Japanese Curry"
 tags: mains
+image: japanese-curry.jpg 
 source: https://www.justonecookbook.com/how-to-make-curry-roux/
 category: mains
 ---

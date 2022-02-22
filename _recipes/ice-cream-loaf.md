@@ -2,8 +2,8 @@
 layout: recipe
 title:  "Ice Cream Loaf"
 image: ice-cream-loaf.jpg
-tags: dessert
-category: dessert
+tags: desserts
+category: desserts
 ---
 
 * 1 x 395g can condensed milk 

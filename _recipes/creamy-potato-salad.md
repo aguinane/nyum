@@ -1,8 +1,8 @@
 ---
 layout: recipe
 title:  "Creamy Potato Salad"
-tags: sides
-category: sides
+tags: salads
+category: salads
 veggie: ✓
 ---
 
