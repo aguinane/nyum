@@ -1,7 +1,6 @@
 ---
 layout: recipe
 title:  "Ice Cream Loaf"
-image: ice-cream-loaf.jpg
 tags: desserts
 category: desserts
 ---

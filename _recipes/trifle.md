@@ -18,9 +18,11 @@ category: desserts
 
 ---
 
-* custard (2x4 cups of milk)
+* `2x2/3 cup` caster sugar
+* `2x2/3 cup` custard powder
+* `2x4 cups` milk
 
-> Make custard
+> Make 2 batches of custard
 
 --- 
 

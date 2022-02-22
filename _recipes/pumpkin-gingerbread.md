@@ -1,6 +1,5 @@
 ---
 title:  "Pumpkin Gingerbread"
-image: pumpkin-gingerbread.jpg
 tags: snacks
 category: snacks
 veggie: ✓
