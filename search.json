@@ -15,13 +15,14 @@
 ,{"title":"Chocolate Squares","category":"snacks","cooktime":"PT20m","image":"chocolate-squares.jpg","tags":"snacks","description":"Guinane family recipe, slightly changed each generation.","htmlfile":"chocolate-squares.html","vegan":"✓","preptime":"PT10m"}
 ,{"title":"Cob Loaf","category":"sides","image":"cob-loaf.jpg","tags":"sides","htmlfile":"cob-loaf.html"}
 ,{"title":"Sweet Potato Mushroom &amp; Two Bean Cottage Pie","category":"mains","veggie":"✓","tags":"mains","htmlfile":"cottage-pie.html"}
-,{"title":"Creamy Potato Salad","category":"salads","layout":"recipe","veggie":"✓","tags":"salads","htmlfile":"creamy-potato-salad.html"}
+,{"title":"Creamy Potato Salad","category":"salads","layout":"recipe","image":"creamy-potato-salad.jpg","veggie":"✓","tags":"salads","htmlfile":"creamy-potato-salad.html"}
 ,{"title":"Fruit Scones","category":"snacks","image":"fruit-scones.jpg","veggie":"✓","tags":"snacks","htmlfile":"fruit-scones.html"}
 ,{"title":"Golden Wheat Slice","category":"snacks","image":"golden-wheat-slice.jpg","veggie":"✓","tags":"snacks","htmlfile":"golden-wheat-slice.html"}
 ,{"title":"Harissa Traybake Chicken","category":"mains","image":"harissa-traybake-chicken.jpg","tags":"mains","htmlfile":"harissa-traybake-chicken.html"}
 ,{"title":"Honey Chicken Curry","category":"mains","image":"honey-chicken-curry.jpg","tags":"mains","htmlfile":"honey-chicken-curry.html"}
 ,{"title":"Ice Cream Loaf","category":"desserts","layout":"recipe","tags":"desserts","htmlfile":"ice-cream-loaf.html"}
 ,{"title":"Indian Shepherd’s Pie","category":"mains","image":"indian-shepherds-pie.jpg","tags":"mains","htmlfile":"indian-shepherds-pie.html"}
+,{"title":"Instant Pot Roast Chicken","category":"dinner","layout":"recipe","image":"instantpotchicken.jpg","tags":"dinner","htmlfile":"instant-pot-roast-chicken.html"}
 ,{"title":"Iron Balls","category":"snacks","veggie":"✓","tags":"snacks","htmlfile":"iron-balls.html"}
 ,{"title":"Japanese Curry","category":"mains","source":"https://www.justonecookbook.com/how-to-make-curry-roux/","image":"japanese-curry.jpg","tags":"mains","htmlfile":"japanese-curry.html"}
 ,{"title":"Kushari","category":"mains","image":"kushari.jpg","tags":"mains","htmlfile":"kushari.html","vegan":"✓"}
@@ -43,21 +44,21 @@
 ,{"title":"Overnight Porridge","category":"breakfasts","image":"overnight-porridge.jpg","veggie":"✓","tags":"breakfasts","htmlfile":"overnight-porridge.html"}
 ,{"title":"Pad Thai","category":"mains","image":"pad-thai.jpg","tags":"mains","htmlfile":"pad-thai.html"}
 ,{"title":"Party Punch","category":"drinks","image":"party-punch.jpg","veggie":"✓","tags":"drinks","description":"The famous Grimes party punch recipe from uni.","htmlfile":"party-punch.html"}
-,{"directions":["Grease 20 x 30cm tray and preheat oven to 180 degrees","Process biscuit in food processor until finely crumbled","Melt 170g butter in saucepan and add to biscuit mix","Press mixture firmly over pan base","Melt peanut butter, condensed milk and golden syrup in suacepan, stirring constantly over low heat until mixture boils and thickens","Pour hot mixture over biscuit base","Bake for 10-15mins","Melt chocolate and remaining 30g of butter in bowl over saucepan of simmering water","When slice has cooled, pour chocolate mixture over slice","Refrigerate until set"],"ingredients":["250g Marie biscuits","200g butter","1/2 cup peanut butter","400g condensed milk","2 tbspn golden syrup","125g dark chocolate"],"title":"Peanut Butter Caramel Slice","category":"snacks","layout":"recipe","image":"peanut-butter-slice.jpg","tags":"snacks","htmlfile":"peanut-butter-caramel-slice.html"}
+,{"title":"Peanut Butter Caramel Slice","category":"snacks","layout":"recipe","image":"peanut-butter-caramel-slice.jpg","tags":"snacks","htmlfile":"peanut-butter-caramel-slice.html"}
 ,{"title":"Pikelets","category":"snacks","layout":"recipe","image":"pikelets.jpg","veggie":"✓","tags":"snacks","htmlfile":"pikelets.html"}
 ,{"title":"Pizza Scrolls","category":"snacks","image":"pizza-scrolls.jpg","veggie":"✓","tags":"snacks","htmlfile":"pizza-scrolls.html"}
 ,{"title":"Potato Bake","category":"sides","image":"potato-bake.jpg","tags":"sides","htmlfile":"potato-bake.html"}
-,{"title":"Pumpkin Gingerbread","category":"snacks","veggie":"✓","tags":"snacks","htmlfile":"pumpkin-gingerbread.html"}
+,{"title":"Pumpkin Gingerbread","category":"snacks","image":"pumpkin-gingerbread.jpg","veggie":"✓","tags":"snacks","htmlfile":"pumpkin-gingerbread.html"}
 ,{"title":"Pumpkin Soup","category":"soups","image":"pumpkin-soup.jpg","veggie":"✓","tags":"soups","description":"Tasty entree and great for babies.","htmlfile":"pumpkin-soup.html"}
 ,{"title":"Raspberry Jam drops","category":"snacks","image":"raspberry-jam-drops.jpg","veggie":"✓","tags":"snacks","htmlfile":"raspberry-jam-drops.html"}
-,{"title":"Roast Lamb with Balsamic Glaze and Olive Tapenade","category":"mains","layout":"recipe","image":"roast-lamb.jpg","tags":"mains","htmlfile":"roast-lamb-with-balsamic-glaze-and-olive-tapenade.html"}
+,{"title":"Roast Lamb with Olive Tapenade","category":"mains","layout":"recipe","image":"roast-lamb-with-olive-tapenade.jpg","tags":"mains","htmlfile":"roast-lamb-with-olive-tapenade.html"}
 ,{"title":"Sausage Rolls","category":"snacks","image":"sausage-rolls.jpg","tags":"snacks","htmlfile":"sausage-rolls.html"}
 ,{"title":"Spinach and Lentil Stew","category":"mains","veggie":"✓","tags":"mains","htmlfile":"spinach-and-lentil-stew.html"}
 ,{"title":"Spinach and Paneer Saag","category":"mains","image":"spinach-and-paneer-saag.jpg","veggie":"✓","tags":"mains","htmlfile":"spinach-and-paneer-saag.html"}
 ,{"title":"Sticky Date Pudding","category":"desserts","image":"sticky-date-pudding.jpg","veggie":"✓","tags":"desserts","htmlfile":"sticky-date-pudding.html"}
-,{"title":"Sweet Potato Salad","category":"salads","layout":"recipe","image":"sweet-potato.jpg","veggie":"✓","tags":"salads","htmlfile":"sweet-potato-salad.html"}
-,{"title":"Teriyaki Eggplant Stir-Fry","category":"dinner","layout":"recipe","tags":"dinner","htmlfile":"teriyaki-eggplant-stir-fry.html"}
-,{"title":"The Best Brownies","category":"snacks","veggie":"✓","tags":"snacks","htmlfile":"the-best-brownies.html"}
+,{"title":"Sweet Potato Salad","category":"salads","layout":"recipe","image":"sweet-potato-salad.jpg","veggie":"✓","tags":"salads","htmlfile":"sweet-potato-salad.html"}
+,{"title":"Teriyaki Eggplant Stir-Fry","category":"dinner","layout":"recipe","image":"teriyaki-eggplant-stir-fry.jpg","tags":"dinner","htmlfile":"teriyaki-eggplant-stir-fry.html"}
+,{"title":"The Best Brownies","category":"snacks","veggie":"✓","tags":"snacks","description":"These are extremely unhealthy but super tasty","htmlfile":"the-best-brownies.html"}
 ,{"title":"Trifle","category":"desserts","image":"trifle.jpg","tags":"desserts","description":"It’s not Christmas if you don’t make a trifle.","htmlfile":"trifle.html"}
 ,{"title":"Vanilla Slice","category":"desserts","image":"vanilla-slice.jpg","veggie":"✓","tags":"desserts","description":"Basically just custard with pastry and icing on top","htmlfile":"vanilla-slice.html"}
 ,{"title":"Vege Thai Curry","category":"mains","image":"vege-thai-curry.jpg","veggie":"✓","tags":"mains","htmlfile":"vege-thai-curry.html"}
