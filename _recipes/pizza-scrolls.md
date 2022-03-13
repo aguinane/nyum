@@ -16,12 +16,33 @@ veggie: ✓
 
 
 > Add flour to a bowl with butter and herbs
+
+---
+
 > Stir in milk with a knife to make dough
+
+---
+
 > But heaps of flour on surface and knead dough
+
+---
+
 > Roll into flat sheet
+
+---
+
 > Add sauce and cheese on top
+
+---
+
 > Roll into a roll and cut into pieces
+
+---
+
 > Bake in oven
+
+---
+
 
 ---
 

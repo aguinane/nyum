@@ -17,15 +17,45 @@ veggie: ✓
 
 
 > Steam sweet potato
+
+---
+
 > Mash sweet potatoes
+
+---
+
 > Heat oil in frying pan, cook onions for 5mins
+
+---
+
 > Add mushrooms and cook for another 5 mins
+
+---
+
 > Stir in beans, mexican mix and water
+
+---
+
 > Bring to the boil and then reduce heat and simmer for 8 mins
+
+---
+
 > Transfer mushroom and bean mix to baking dish
+
+---
+
 > Top with mashed potato
+
+---
+
 > Grill for 15-20 mins until sweet potato is starting to brown
+
+---
+
 > Serve with steamed green vegetables
+
+---
+
 
 ---
 

@@ -19,11 +19,32 @@ category: mains
 
 
 > Preheat oven to 200 degrees and grease casserole dish
+
+---
+
 > Cook lamb until browned and remove
+
+---
+
 > Saute onions, eggplant, garlic and cook until soft
+
+---
+
 > Stir in paste
+
+---
+
 > Add cooked lamb and tomatoes, sauce and water. Bring to boil, cover with a lid and leave to simmer for 10 mins.
+
+---
+
 > Transfer to casserole dish, spoon mash potao on top of lamb. Sprinkle with cheese.
+
+---
+
 > Cook in oven for 35 mins
+
+---
+
 
 ---

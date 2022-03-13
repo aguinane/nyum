@@ -13,7 +13,13 @@ veggie: ✓
 
 
 > Place all ingredients in a glass jar
+
+---
+
 > Refrigerate overnight
+
+---
+
 > Serve with your choice of toppings
 
 ---

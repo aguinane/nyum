@@ -22,12 +22,36 @@ category: soups
 
 
 > Heat the butter and olive oil in a large saucepan.
+
+---
+
 > Add the diced onion, leek and minced garlic and saute until soft.
+
+---
+
 > Add the chopped carrots, celery, red capsicum and thyme and saute for a further 3 minutes.
+
+---
+
 > Add the plain flour and mix to coat. Cook for 1 minute.
+
+---
+
 > Add 1 cup of the stock and stir until the flour has dissolved into the broth.
+
+---
+
 > Add the remaining stock, milk, chicken and corn kernels.
+
+---
+
 > Simmer on low for 20 mins.
+
+---
+
 > Stir through spinach, season with salt and pepper and serve with croutons.
+
+---
+
 
 ---

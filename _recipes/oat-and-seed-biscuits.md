@@ -20,13 +20,37 @@ veggie: ✓
 
 
 > Preheat oven to 180 degrees and grease 2 baking trays
+
+---
+
 > In saucepan melt margarine, sugar and syrup
+
+---
+
 > In bowl dissolve bicarb soda  in hot water
+
+---
+
 > Add sugar mixture to water and bicarb soda
+
+---
+
 > Add remaining dry ingredients to bowl and mix
+
+---
+
 > Scoop mixture out with tbsp and place on trays
+
+---
+
 > Flatten mixture with a floured spatula
+
+---
+
 > Bake for 8-10 mins
+
+---
+
 
 ---
 

@@ -7,10 +7,6 @@ category: desserts
 veggie: ✓
 ---
 
-
-
-
-
 > Preheat oven to 180 degrees and grease tart pan
 
 ---

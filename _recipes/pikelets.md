@@ -14,10 +14,25 @@ veggie: ✓
 * 1 tsp vanilla essence
 
 
-> Beat milk, egg, sugar and vanilla
+> Beat milk, egg, sugar and vanilla 
+
+---
+
 > Add in flour
+
+---
+
 > Spoon mixture into frying pan
+
+---
+
 > Cook until golden
+
+---
+
 > Serve with fresh fruit, honey and cream
+
+---
+
 
 ---

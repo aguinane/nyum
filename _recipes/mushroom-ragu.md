@@ -20,14 +20,44 @@ veggie: ✓
 
 
 > Heat oil in frying pan
+
+---
+
 > Saute onion for 3 minutes
+
+---
+
 > Add mushrooms and cook for 5 mins
+
+---
+
 > Add garlic, oregano and passata and cook until fragnant
+
+---
+
 > Add tomatoes, vinegar and 1/2 cup of water.
+
+---
+
 > Bring to the boil and then reduce heat and allow to simmer for 5 mins, until sauce thickens.
+
+---
+
 > To make the polenta, place milk and 2 cups of cold water in saucepan, bring to the boil
+
+---
+
 > Add polenta in a slow and steady stream, whisking constantly
+
+---
+
 > Reduce to low-medium heat and cook for 4 mins
+
+---
+
 > Add cheese and margarine, cook for 1 min
+
+---
+
 
 ---

@@ -14,10 +14,25 @@ category: mains
 
 
 > Cut up the chicken and brown a bit in pan/wok
+
+---
+
 > Add cashews
+
+---
+
 > Mix mustard, honey and butter to make sauce
+
+---
+
 > Add sauce to chicken and cook until chicken is done
+
+---
+
 > Serve with rice and naan
+
+---
+
 
 ---
 

@@ -22,11 +22,29 @@ vegan: ✓
 
 
 > Cook rice and pasta
+
+---
+
 > Brown onion, garlic
+
+---
+
 > Add diced tomato, vinegar and spices to sauce
+
+---
+
 > Mix rice, pasta, lentils, chickpeas
+
+---
+
 > Make fried onion by covering in flour and frying in oil
+
+---
+
 > (optionally) top with chicken or lamb
+
+---
+
 
 ---
 

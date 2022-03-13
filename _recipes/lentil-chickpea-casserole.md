@@ -21,13 +21,29 @@ veggie: ✓
 
 
 > Heat oil in dutch oven
+
+---
+
 > Saute onion
+
+---
+
 > Add in spices and stir for 2 mins
+
+---
+
 > Add broth, carrot, tomatoes, lentils and chicpeas
+
+---
+
 > Simmer for 10-15 mins until some of the water has boiled off
+
+---
+
 > Serve with cous cous or quinoa
+
+---
+
 > Granish with yoghurt, lemon and coriander leaves
-
-
 
 ---

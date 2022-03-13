@@ -22,12 +22,36 @@ veggie: ✓
 
 
 > Beat butter and sugar until smooth
+
+---
+
 > Beat in egg, cinnamon, vanilla until fluffy
+
+---
+
 > Slowly add in flour, baking soda, salt, oats and sultanas
+
+---
+
 > Cover dough with cling wrap and place in fridge for 30 mins
+
+---
+
 > Preheat oven to 180 degrees
+
+---
+
 > Using spoon scoop out dough, roll into balls and place on tray. Flatten with fork.
+
+---
+
 > Bake for 10-15 mins
+
+---
+
 > Place on wire rack to cool
+
+---
+
 
 ---

@@ -21,11 +21,32 @@ veggie: ✓
 
 
 > Heat oil in frying pan
+
+---
+
 > Cook vegetables unitl soft
+
+---
+
 > Add curry powder, garlic and chilli, cook until fragnant
+
+---
+
 > Add stock, tomatoes and lentils and bring to boil
+
+---
+
 > Reduce heat and simmer uncovered for 8 minutes
+
+---
+
 > Stir in spinach and lemon juice until spinach has wilted
+
+---
+
 > Serve with lebanese bread
+
+---
+
 
 ---

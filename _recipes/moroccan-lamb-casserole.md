@@ -25,12 +25,36 @@ category: mains
 
 
 > Preheat slow cooker for 20 mins
+
+---
+
 > Heat oil in pan and sear lamb in fry pan until brown
+
+---
+
 > Add lamb to slow cooker 
+
+---
+
 > Saute onion and garlic in oil for 2 mins 
+
+---
+
 > Add spices and fry
+
+---
+
 > Add onion, spices, veggies, water, tomato paste to slow cooker
+
+---
+
 > Cook for 6-8 hours on low 
+
+---
+
 > Serve with toasted silvered almonds and cous cous 
+
+---
+
 
 ---

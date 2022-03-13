@@ -16,9 +16,24 @@ veggie: ✓
 
 
 > Slice potato and boil in microwave for 10 mins
+
+---
+
 > Saute onion, add tomatoes and paste and stir
+
+---
+
 > Add potato and coconut cream
+
+---
+
 > Simmer for 10 mins or until less watery
+
+---
+
 > Serve with naan and rice
+
+---
+
 
 ---
