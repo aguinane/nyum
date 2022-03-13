@@ -6,12 +6,10 @@ category: snacks
 veggie: ✓
 ---
 
-* 2 1/2 cups self-raising flour
-* 2 tbsp butter
-* 2 tsp herbs
-* 1 1/4 cups milk
-* pizza sauce
-* cheese
+* `2 1/2 cups` self-raising flour
+* `2 tbsp` butter
+* `2 tsp` herbs
+
 
 
 
@@ -19,17 +17,24 @@ veggie: ✓
 
 ---
 
+* `1 1/4` cups milk
+  
 > Stir in milk with a knife to make dough
 
 ---
 
-> But heaps of flour on surface and knead dough
+> Put heaps of flour on surface and knead dough
 
 ---
 
 > Roll into flat sheet
 
+>>> Make sure you make the roll doughed thin or it tastes too flourly.
+
 ---
+
+* pizza sauce
+* cheese
 
 > Add sauce and cheese on top
 
@@ -42,9 +47,3 @@ veggie: ✓
 > Bake in oven
 
 ---
-
-
----
-
-These were pretty good.
-Make sure you make the roll doughed thin or it tastes too flourly.

@@ -7,16 +7,16 @@ category: snacks
 veggie: ✓
 ---
 
-* 3/4 cups of milk
-* 1 egg
-* 1 cup SR flour, sifted
-* 1 tbsp caster sugar
-* 1 tsp vanilla essence
-
+* `3/4 cups` of milk
+* `1` egg
+* `1 tbsp` caster sugar
+* `1 tsp` vanilla essence
 
 > Beat milk, egg, sugar and vanilla 
 
 ---
+
+* `1 cup` SR flour, sifted
 
 > Add in flour
 
@@ -31,8 +31,5 @@ veggie: ✓
 ---
 
 > Serve with fresh fruit, honey and cream
-
----
-
 
 ---
