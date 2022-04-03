@@ -58,7 +58,7 @@
 ,{"title":"Sticky Date Pudding","category":"desserts","image":"sticky-date-pudding.jpg","veggie":"✓","tags":"desserts","htmlfile":"sticky-date-pudding.html"}
 ,{"title":"Sweet Potato Salad","category":"salads","layout":"recipe","image":"sweet-potato-salad.jpg","veggie":"✓","tags":"salads","htmlfile":"sweet-potato-salad.html"}
 ,{"title":"Teriyaki Eggplant Stir-Fry","category":"dinner","layout":"recipe","image":"teriyaki-eggplant-stir-fry.jpg","tags":"dinner","htmlfile":"teriyaki-eggplant-stir-fry.html"}
-,{"title":"The Best Brownies","category":"snacks","veggie":"✓","tags":"snacks","description":"These are extremely unhealthy but super tasty","htmlfile":"the-best-brownies.html"}
+,{"title":"The Best Brownies","category":"snacks","image":"the-best-brownies.jpg","veggie":"✓","tags":"snacks","description":"These are extremely unhealthy but super tasty","htmlfile":"the-best-brownies.html"}
 ,{"title":"Trifle","category":"desserts","image":"trifle.jpg","tags":"desserts","description":"It’s not Christmas if you don’t make a trifle.","htmlfile":"trifle.html"}
 ,{"title":"Vanilla Slice","category":"desserts","image":"vanilla-slice.jpg","veggie":"✓","tags":"desserts","description":"Basically just custard with pastry and icing on top","htmlfile":"vanilla-slice.html"}
 ,{"title":"Vege Thai Curry","category":"mains","image":"vege-thai-curry.jpg","veggie":"✓","tags":"mains","htmlfile":"vege-thai-curry.html"}
