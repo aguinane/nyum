@@ -1,6 +1,7 @@
 ---
 title:  "The Best Brownies"
 description: These are extremely unhealthy but super tasty
+image: the-best-brownies.jpg
 tags: snacks
 category: snacks
 veggie: ✓
