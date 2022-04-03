@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Pikelets"
 image: pikelets.jpg
+size: 10 pikelets
 tags: snacks
 category: snacks
 veggie: ✓
