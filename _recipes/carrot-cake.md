@@ -61,5 +61,3 @@ veggie: ✓
 ---
 
 > Transfer icing to cake, top with walnuts. 
-
----

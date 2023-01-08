@@ -46,4 +46,3 @@ veggie: ✓
 
 > Granish with yoghurt, lemon and coriander leaves
 
----

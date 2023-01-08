@@ -54,8 +54,3 @@ image: pumpkin-gingerbread.jpg
 ---
 
 > Serve with maragine and honey
-
----
-
-
----

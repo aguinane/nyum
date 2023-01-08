@@ -54,7 +54,4 @@ veggie: ✓
 
 ---
 
-
----
-
 This is pretty easy but takes ages for the rice to soften.

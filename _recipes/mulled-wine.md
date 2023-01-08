@@ -27,7 +27,3 @@ vegan: ✓
 > warm to low to medium heat (avoid boiling!)
 > serve with ladle into mugs
 
----
-
-
-

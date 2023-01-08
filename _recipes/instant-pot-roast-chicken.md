@@ -31,4 +31,3 @@ category: dinner
 > Cook chicken under pressure for 6 mins per 500g, e.g. 1.3kg chicken for 25 mins or 1.8kg chicken for 30mins
 > Allow natural release pressure for 15 mins
 
----

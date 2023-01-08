@@ -22,6 +22,3 @@ veggie: ✓
 > Add optional ingredrients
 > Spoon into silicone muffins trays
 > Bake for 10-20 mins depending on size of muffin trays 
-
----
-

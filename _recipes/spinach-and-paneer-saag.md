@@ -71,6 +71,3 @@ veggie: ✓
   
 > Serve with rice and lemon juice
 
----
-
-

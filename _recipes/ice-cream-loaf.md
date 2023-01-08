@@ -28,5 +28,3 @@ category: desserts
 * fresh raspberries to serve
 
 > Serve with fresh berries
-
----

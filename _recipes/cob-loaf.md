@@ -45,4 +45,3 @@ category: sides
 
 > Bake for 20 minutes or until lightly toasted
 
----

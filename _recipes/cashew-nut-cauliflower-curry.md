@@ -51,5 +51,3 @@ vegan: ✓
 * cashew nuts
 
 > Serve with lime juice, toasted nuts, rice and naan bread
-
----

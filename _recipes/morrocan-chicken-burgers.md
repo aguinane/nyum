@@ -19,6 +19,3 @@ category: mains
 ---
 
 > Chuck on a burger with greek yohurt and salad
-
----
-

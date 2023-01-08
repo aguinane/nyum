@@ -41,6 +41,3 @@ category: mains
 
 > Stir in beansprouts, peanuts and serve with fried onion
 
----
-
-

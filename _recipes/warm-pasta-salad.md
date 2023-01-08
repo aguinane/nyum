@@ -40,4 +40,3 @@ veggie: ✓
 
 > Serve with cheese and fresh basil leaves 
 
----

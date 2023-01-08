@@ -48,6 +48,3 @@ veggie: ✓
 
 > Serve with ice-cream while hot
 
----
-
-

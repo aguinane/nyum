@@ -59,5 +59,3 @@ veggie: ✓
 ---
 
 > Bake for 12-15mins
-
----

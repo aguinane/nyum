@@ -61,8 +61,3 @@ veggie: ✓
 ---
 
 > Serve with cream and jam.
-
----
-
-
----

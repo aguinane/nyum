@@ -33,4 +33,3 @@ veggie: ✓
 
 > Serve with fresh fruit, honey and cream
 
----

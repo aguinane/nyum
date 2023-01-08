@@ -57,8 +57,3 @@ veggie: ✓
 ---
 
 > Pour over hot slice and leave to cool. 
-
----
-
-
----

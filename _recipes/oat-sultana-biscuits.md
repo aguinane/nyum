@@ -51,7 +51,3 @@ veggie: ✓
 
 > Place on wire rack to cool
 
----
-
-
----

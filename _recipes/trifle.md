@@ -12,7 +12,7 @@ category: desserts
 
 ---
 
-* `2` sponge cakes or jam rolls
+* `2 small` sponge cakes or jam rolls
 
 > Cut up cake into cubes in big bowl
 

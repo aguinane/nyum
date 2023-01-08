@@ -37,5 +37,3 @@ image: creamy-potato-salad.jpg
 * shallots
 
 > Sprinkle shallots over the top of mixture
-
----

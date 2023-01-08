@@ -33,8 +33,5 @@ category: mains
 
 ---
 
-
----
-
 The exact recipe for this changes each time. I just wing it a bit and make to taste.
 Use lentils and chickpeas instead of chicken to make it vegetarian.

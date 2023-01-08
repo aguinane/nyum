@@ -59,9 +59,3 @@ category: mains
 ---
 
 > Serve with cous cous or roast potatoes
-
----
-
-
-
----

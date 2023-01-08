@@ -35,6 +35,4 @@ veggie: ✓
 ---
 
 
----
-
 A beauitful cake to share with your gluten free friends 

@@ -47,4 +47,3 @@ vegan: ✓
 
 > Sprinkle coconut or 100s and 1000s on top of icing
 
----

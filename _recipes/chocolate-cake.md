@@ -35,8 +35,3 @@ veggie: ✓
 
 > Add chocolate icing once cool
 
----
-
-
-
-

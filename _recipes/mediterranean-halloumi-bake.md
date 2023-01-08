@@ -47,7 +47,3 @@ veggie: ✓
 
 > Sprinkle with fresh basil and enjoy
 
----
-
-
----

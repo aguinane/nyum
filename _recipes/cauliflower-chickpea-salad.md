@@ -81,6 +81,4 @@ category: salads
 
 > Top with feta and radish to serve
 
----
-
 

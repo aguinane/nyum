@@ -54,7 +54,3 @@ category: mains
 
 > Serve with toasted silvered almonds and cous cous 
 
----
-
-
----

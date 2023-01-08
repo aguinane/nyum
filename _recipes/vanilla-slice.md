@@ -46,6 +46,3 @@ veggie: ✓
 
 > Put in the frige to set
 
----
-
-

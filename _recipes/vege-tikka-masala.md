@@ -33,7 +33,3 @@ veggie: ✓
 
 > Serve with naan and rice
 
----
-
-
----

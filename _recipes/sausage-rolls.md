@@ -42,4 +42,3 @@ category: snacks
 
 > Cook in oven for 25-30 mins, turning half way through
 
----

@@ -59,5 +59,3 @@ category: dinner
 * `1 tbsp` lemon zest 
 
 > Serve with lemon zest, salt and pepper
-
----

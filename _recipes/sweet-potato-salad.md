@@ -44,4 +44,3 @@ veggie: ✓
  
 > Serve with feta and avocado
 
----

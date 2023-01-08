@@ -55,4 +55,3 @@ category: snacks
 
 > Refrigerate until set
 
----

@@ -50,8 +50,3 @@ category: soups
 ---
 
 > Stir through spinach, season with salt and pepper and serve with croutons.
-
----
-
-
----

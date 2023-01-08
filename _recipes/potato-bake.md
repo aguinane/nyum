@@ -45,5 +45,3 @@ category: sides
 ---
 
 > Bake in oven until golden
-
----

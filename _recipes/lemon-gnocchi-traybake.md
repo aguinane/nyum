@@ -46,5 +46,3 @@ vegan: ✓
 
 > Serve with fresh avocado and cheese
 
----
-

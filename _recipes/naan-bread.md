@@ -36,6 +36,3 @@ veggie: ✓
 
 > Add melted garlic butter on top
 
----
-
-

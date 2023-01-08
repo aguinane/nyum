@@ -32,7 +32,3 @@ veggie: ✓
 
 > Serve with rice
 
----
-
-
----

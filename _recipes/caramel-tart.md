@@ -35,8 +35,3 @@ veggie: ✓
 
 > Serve with whipped cream
 
----
-
-
-
-

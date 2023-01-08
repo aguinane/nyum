@@ -53,10 +53,3 @@ veggie: ✓
 ---
 
 > Serve with steamed green vegetables
-
----
-
-
----
-
-

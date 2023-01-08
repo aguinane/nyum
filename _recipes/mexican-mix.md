@@ -31,5 +31,3 @@ favorite: ✓
 
 > Can make nachos (add corn chips) or buritos/quesadilla (put in a wrap).
 
----
-

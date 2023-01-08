@@ -20,6 +20,3 @@ veggie: ✓
 --- 
 
 > Add a 4th bottle of Vodka once the parties swinging
-
----
-

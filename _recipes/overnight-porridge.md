@@ -21,5 +21,3 @@ veggie: ✓
 ---
 
 > Serve with your choice of toppings
-
----

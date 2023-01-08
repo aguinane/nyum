@@ -46,7 +46,5 @@ vegan: ✓
 ---
 
 
----
-
 Had this at a local Egyptian place.
 Still need to tweak the _baharat_ spice blend, as this did not taste as good as theirs.

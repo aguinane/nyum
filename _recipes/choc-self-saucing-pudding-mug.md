@@ -39,6 +39,3 @@ veggie: ✓
 ---
 
 > Cook in the microwave for 1 1/2 minutes
-
----
-

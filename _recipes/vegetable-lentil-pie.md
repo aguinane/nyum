@@ -58,4 +58,3 @@ veggie: ✓
 
 > Cook until pastry is golden
 
----

@@ -41,7 +41,3 @@ image: teriyaki-eggplant-stir-fry.jpg
 ---
 
 > Serve with remaining egg and sesame seeds. 
-
----
-
-

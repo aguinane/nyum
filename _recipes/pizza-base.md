@@ -35,5 +35,3 @@ source: http://www.cookingforengineers.com/recipe/172/Pan-Pizza
 ---
 
 > Spray bottom of bases with oil and prick top with fork
-
----
