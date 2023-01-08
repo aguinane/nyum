@@ -25,7 +25,7 @@
 ,{"title":"Ice Cream Loaf","category":"desserts","layout":"recipe","tags":"desserts","htmlfile":"ice-cream-loaf.html"}
 ,{"title":"Indian Shepherd’s Pie","category":"mains","image":"indian-shepherds-pie.jpg","tags":"mains","htmlfile":"indian-shepherds-pie.html"}
 ,{"title":"Instant Pot Roast Chicken","category":"dinner","layout":"recipe","image":"instantpotchicken.jpg","tags":"dinner","htmlfile":"instant-pot-roast-chicken.html"}
-,{"title":"Iron Balls","category":"snacks","veggie":"✓","tags":"snacks","htmlfile":"iron-balls.html"}
+,{"title":"Iron Balls","category":"snacks","source":"https://www.newidea.com.au/4-ingredient-weet-bix-balls","veggie":"✓","tags":"snacks","htmlfile":"iron-balls.html"}
 ,{"title":"Japanese Curry","category":"mains","source":"https://www.justonecookbook.com/how-to-make-curry-roux/","image":"japanese-curry.jpg","tags":"mains","htmlfile":"japanese-curry.html"}
 ,{"title":"Kushari","category":"mains","image":"kushari.jpg","tags":"mains","htmlfile":"kushari.html","vegan":"✓"}
 ,{"title":"Lamb Pide","category":"mains","image":"lamb-pide.jpg","tags":"mains","htmlfile":"lamb-pide.html"}
