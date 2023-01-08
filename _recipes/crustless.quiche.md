@@ -1,6 +1,5 @@
 ---
 title:  "Crustless Quiche"
-image: crustless-quiche.jpg
 tags: snacks
 category: snacks
 veggie: ✓

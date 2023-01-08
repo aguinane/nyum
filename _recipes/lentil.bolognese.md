@@ -1,6 +1,5 @@
 ---
 title:  "Lentil Bolognese"
-image: lentilbolognese.jpg
 tags: dinner
 category: dinner
 veggie: ✓

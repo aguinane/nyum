@@ -1,7 +1,6 @@
 ---
 layout: recipe
 title:  "Instant Pot Roast Chicken"
-image: instantpotchicken.jpg
 tags: dinner
 category: dinner
 ---

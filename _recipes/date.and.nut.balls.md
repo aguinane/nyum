@@ -1,6 +1,5 @@
 ---
 title:  "Date and Nut Balls"
-image: datenutballs.jpg
 tags: snacks
 category: snacks
 veggie: ✓
