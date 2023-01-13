@@ -11,6 +11,7 @@
 ,{"title":"Chickpea Burgers","spicy":"✓","category":"mains","cooktime":"PT30m","image":"chickpea-burgers.jpg","favorite":"✓","tags":"mains","description":"Awesome veggie patties to add to burgers.","htmlfile":"chickpea-burgers.html","vegan":"✓","preptime":"PT30m"}
 ,{"title":"Choc Self Saucing Pudding (Mug)","category":"desserts","image":"choc-self-saucing-pudding-mug.jpg","veggie":"✓","tags":"desserts","description":"Not as nice as the <a href=\"choc-self-saucing-pudding.html\">proper recipe</a>, but much faster to make.","htmlfile":"choc-self-saucing-pudding-mug.html","time":"5m"}
 ,{"title":"Choc Self Saucing Pudding","category":"desserts","image":"choc-self-saucing-pudding.jpg","veggie":"✓","tags":"desserts","htmlfile":"choc-self-saucing-pudding.html","time":"30m"}
+,{"title":"Avocado Muffins","category":"snacks","image":"choc-zucchini.jpg","veggie":"✓","tags":"snacks","htmlfile":"choc.zucchini.slice.html"}
 ,{"title":"Chocolate Cake","category":"desserts","image":"chocolate-cake.jpg","veggie":"✓","tags":"desserts","htmlfile":"chocolate-cake.html"}
 ,{"title":"Chocolate Squares","category":"snacks","cooktime":"PT20m","image":"chocolate-squares.jpg","tags":"snacks","description":"Guinane family recipe, slightly changed each generation.","htmlfile":"chocolate-squares.html","vegan":"✓","preptime":"PT10m"}
 ,{"title":"Cob Loaf","category":"sides","image":"cob-loaf.jpg","tags":"sides","htmlfile":"cob-loaf.html"}
