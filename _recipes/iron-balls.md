@@ -16,13 +16,13 @@ source: https://www.newidea.com.au/4-ingredient-weet-bix-balls
 * `1/4 cup` cocoa powder
 * `1 tin (395g)` condensed milk
  
-> add coconut, milo and condensed milk and mix
+> add 1/2 cup coconut, milo and condensed milk and mix
 
 ---
 
-* `1/2 cup` coconut
+* `1/4 cup` coconut
 
-> scoop out mixture and roll into ball and then roll in coconut
+> scoop out mixture and roll into ball and then roll in remaining coconut
 
 >>> You can optionally add 100s and 1000s also. 
 
