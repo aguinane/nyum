@@ -1,7 +1,7 @@
 ---
 title: "Choc Self Saucing Pudding (Mug)"
 category: desserts
-image: choc-self-saucing-pudding-(mug).jpg
+image: choc-self-saucing-pudding-mug.jpg
 description: Not as nice as the baked one, but much faster to make.
 ---
 

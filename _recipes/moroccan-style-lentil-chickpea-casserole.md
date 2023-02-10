@@ -1,7 +1,7 @@
 ---
 title: "Moroccan Style Lentil & Chickpea Casserole"
 category: mains
-image: moroccan-style-lentil-&-chickpea-casserole.jpg
+image: moroccan-style-lentil-chickpea-casserole.jpg
 ---
 
 

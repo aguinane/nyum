@@ -1,7 +1,7 @@
 ---
 title: "Indian Shepherd's Pie"
 category: mains
-image: indian-shepherd's-pie.jpg
+image: indian-shepherd-s-pie.jpg
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Chicken & Veg Soup"
 category: soups
-image: chicken-&-veg-soup.jpg
+image: chicken-veg-soup.jpg
 ---
 
 

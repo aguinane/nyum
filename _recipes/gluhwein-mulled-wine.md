@@ -1,7 +1,7 @@
 ---
 title: "glühwein (Mulled Wine)"
 category: drinks
-image: glühwein-(mulled-wine).jpg
+image: gluhwein-mulled-wine.jpg
 description: Awesome in winter if you are having people over. The fruit makes it sweet so don't buy expensive wine.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Oat & Sultana Biscuits"
 category: snacks
-image: oat-&-sultana-biscuits.jpg
+image: oat-sultana-biscuits.jpg
 ---
 
 

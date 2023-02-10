@@ -1,7 +1,7 @@
 ---
 title: "Toasted Cashew Nut & Cauliflower Curry"
 category: curries
-image: toasted-cashew-nut-&-cauliflower-curry.jpg
+image: toasted-cashew-nut-cauliflower-curry.jpg
 ---
 
 
