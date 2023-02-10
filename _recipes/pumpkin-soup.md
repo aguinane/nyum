@@ -1,28 +1,33 @@
 ---
-title:  "Pumpkin Soup"
+title: "Pumpkin Soup"
+category: soups
 image: pumpkin-soup.jpg
 description: Tasty entree and great for babies.
-tags: soups
-category: soups
-veggie: ✓
 ---
 
 
-* `2` tomatoes halved
-* `1 large` onion, peeled and quartered
+* `2` tomatoes
+* `1 large` onion
 
-
-> Place tomatoes and onion into food processor bowl and process until finely chopped.
+> Place tomatoes (halved) and onion (quartered) into food processor bowl and process until finely chopped.
 
 ---
 
-* `1.5kg` pumpkin, peeled and cut into large cubes
+* `1.5kg` pumpkin
 * `5 cups` water
 * `5 cubes` chicken stock
-* `pinch` salt
-* cayenne pepper (optional)
 
-> Combine pumpkin, tomato and onion mixture with water, chicken stock cubes  in a pan. 
+> Combine pumpkin, tomato and onion mixture with water, chicken stock in a pan.
+
+---
+
+* `pinch` salt
+* `some` cayenne pepper
+
+> Optionally, add salt and cayenne pepper.
+
+---
+
 > Simmer gently until pumpkin is tender approx >0 mins.
 
 ---

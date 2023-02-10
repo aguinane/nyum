@@ -1,33 +1,31 @@
 ---
-title:  "Mexican Mix"
-description: This is our go to mexican mix
+title: "Mexican Mix"
+category: components
 image: mexican-mix.jpg
-tags: mains
-category: mains
-veggie: ✓
-favorite: ✓
+description: This is our go to mexican mix. Make into burritos or nachos.
 ---
 
-* `1` red onion (chopped)
-* chilli
-* mushrooms (optional)
-* oil
 
-> Fry onions until brown
+* `1` red onion
+* `some` chilli
+* `some` mushrooms
+* `some` oil
+
+> Chop up red onion, chilli, and mushrooms (optional) and fry in oil until brown.
 
 ---
 
-* `1 can` of black beans
-* `1 can` of diced tomatoes
+* `1 can` black beans
+* `1 can` diced tomatoes
 * `1/2 cup` corn
-* mexican spice mix
+* `some` mexican spice mix
 
-> Mix it all together and cook in pan
+> Mix in black beans, diced tomatoes, corn, and mexican spice mix and cook for a few more minutes.
 
 ---
 
-* avocado
-* cheese 
+* `some` avocado
+* `some` cheese
 
-> Can make nachos (add corn chips) or buritos/quesadilla (put in a wrap).
+> Serve with avocado and cheese
 

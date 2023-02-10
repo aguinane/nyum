@@ -1,42 +1,48 @@
 ---
-title:  "Warm Pasta Salad"
-image: warm-pasta-salad.jpg
-tags: salads
+title: "Warm Pasta Salad"
 category: salads
-veggie: ✓
+image: warm-pasta-salad.jpg
 ---
 
-* 500g pasta
+
+* `500g` pasta
 
 > Cook pasta in microwave
 
 ---
 
-* 2 tbs olive oil
-* 3 garlic cloves
+* `3 cloves` garlic
+* `2 tbs` olive oil
 
-> Fry garlic in pan for 1 min
+> Fry garlic and olive oil in pan for 1 min
 
 ---
 
-* 2 bunches of aparagus
-* 2 tbs lemon juice
-* 2 tbs basil pesto
+* `2 bunches` aparagus
 
-> Add asparagus and cook until tender
-> Add pesto and lemon juice and heat through
+> Add aparagus and cook until tender
+
+---
+
+* `2 tbs` basil pesto
+* `2 tbs` lemon juice
+
+> Add basil pesto and lemon juice and heat through
+
+---
+
 > Remove from pan
 
---- 
+---
 
-* 400g cherry tomatoes
-* 1/4 cup pine nuts
+* `400g` cherry tomatoes
+* `1/4 cup` pine nuts
 
-> Combine pasta, asparagus, tomatoes and pine nuts in bowl
+> Combine pasta, asparagus, cherry tomatoes  and pine nuts in bowl
 
---- 
+---
 
-* 1/2 cup basil leaves
+* `1/2 cup` cheese and fresh @basil leaves
 
-> Serve with cheese and fresh basil leaves 
+> Serve with cheese and fresh @basil leaves
 

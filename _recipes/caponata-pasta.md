@@ -1,43 +1,42 @@
 ---
-layout: recipe
-title:  "Caponata Pasta"
-image: caponata-pasta.jpg
-tags: dinner
+title: "Caponata Pasta"
 category: dinner
-
+image: caponata-pasta.jpg
 ---
+
 
 > Preheat oven to 200 degrees
 
 ---
 
-* olive oil
-* `1` eggplant, cut into 2cm pieces
-  
-> Bake eggplant for 20 mins
+* `1` eggplant
+* `some` olive oil
+
+> Cut eggplant into 2cm pieces, and bake for 20 mins with olive oil
 
 ---
 
-* pasta
-  
-> Cook pasta as per package instructions
+* `some` pasta
+
+> Cook pasta
 
 ---
 
-* 1 red onion, thinly sliced
-* celery salt
+* `1` red onion
+* `some` celery salt
 
-> Cook onion and celery for 10 mins
+> Cook red onion  and celery salt for 10 mins
 
 ---
 
-* `3 cloves` garlic, minced
+* `3 cloves` minced garlic
 * `1 tsp` dried oregano
 * `80g` parmesan cheese
 * `2 x 400g` diced tomatoes
 * `1/2 cup` sultanas
+* `1/2 cup` water
 
-> Add garlic, oregano and half parmesan, tomatoes, sultanas and 1/2 cup of water
+> Add minced garlic, dried oregano and parmesan cheese , diced tomatoes,  sultanas  and water
 
 ---
 
@@ -47,8 +46,9 @@ category: dinner
 
 * `1 tbs` red wine vinegar
 
-> Sitr in eggplant and vinegar
+> Stir in eggplant and red wine vinegar
 
 ---
 
 > Serve with fresh spinach and rocket and parmesan cheese
+

@@ -1,31 +1,26 @@
 ---
-title:  "Raspberry Jam drops"
-image: raspberry-jam-drops.jpg
-tags: snacks
+title: "Raspberry Jam drops"
 category: snacks
-veggie: ✓
+image: raspberry-jam-drops.jpg
 ---
-
-
-
 
 
 > Preheat oven to 180 degrees and line a baking tray with paper
 
 ---
 
-* 175g margarine, softened
-* 1 tsp vanilla extract
-* 1/4 icing sugar, sifted
+* `175g` margarine
+* `1 tsp` vanilla extract
+* `1/4 cup` icing sugar
 
-> Beat margarine, vanilla and icing sugar until fluffy
+> Beat margarine, vanilla extract  and icing sugar until fluffy
 
 ---
 
-* 1 cup plain flour, sifted 
-* 1/4 cup cornflour
+* `1 cup` plain flour
+* `1/4 cup` cornflour
 
-> Add flour and cornflour and mix until dough forms
+> Add plain flour and cornflour and mix until dough forms
 
 ---
 
@@ -37,7 +32,7 @@ veggie: ✓
 
 ---
 
-* raspberry jam 
+* `some` raspberry jam
 
 > Spoon raspberry jam into hole
 

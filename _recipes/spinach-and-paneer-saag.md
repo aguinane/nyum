@@ -1,22 +1,21 @@
 ---
-title:  "Spinach and Paneer Saag"
+title: "Spinach and Paneer Saag"
+category: curries
 image: spinach-and-paneer-saag.jpg
-tags: mains
-category: mains
-veggie: ✓
 ---
 
-* Oil
+
+* `some` oil
 * `2 tsp` tumeric
 * `1 tsp` chilli powder
 
-> In a bottle whisk oil, tumeric and chilli. 
+> In a bottle whisk oil, tumeric and chilli powder .
 
 ---
 
-* `450g` paneer cut in cubes
+* `450g` paneer
 
-> Add paneer and toss until coated
+> Cut paneer into cubes. Add sauce and toss until coated
 
 ---
 
@@ -35,7 +34,7 @@ veggie: ✓
 * `1 tsp` ginger
 * `1 red` chilli
 
-> Blend onion, garlic, ginger and chilli
+> Blend onion garlic ginger chilli
 
 ---
 
@@ -52,22 +51,24 @@ veggie: ✓
 ---
 
 * `1 tsp` garam masala
-  
-> Add garam masala and fry for another 2 mins
+
+> Add garam masala  and fry for another 2 mins
 
 ---
 
-> Add spinach and 100mL of water to onion mix and cook for another 2-3 mins
+* `100mL` water
+
+> Add spinach and water to onion mix and cook for another 2-3 mins
 
 ---
 
 * `200 mL` coconut cream
 
-> Add paneer and cocnut cream cook for another 2-3 mins
+> Add paneer and coconut cream cook for another 2-3 mins
 
 ---
 
-* lemon juice
-  
+* `some` lemon juice
+
 > Serve with rice and lemon juice
 

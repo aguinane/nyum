@@ -1,43 +1,48 @@
 ---
-layout: recipe
-title:  "Teriyaki Eggplant Stir-Fry"
-tags: dinner
+title: "Teriyaki Eggplant Stir-Fry"
 category: dinner
 image: teriyaki-eggplant-stir-fry.jpg
 ---
 
-* 2 tbs olive oil
-* 4 eggs, lightly beaten
-* 1 large eggplant, cut into 2 cm cubed
-* 450g frozen veggie mix
-* 1 cup frozen peas
-* 450g rice or egg noddles
-* 1/3 cup of teriyaki sauce
-* 3 spring onions, thinly sliced
-* 1 tbs sesame seeds, toasted
 
-> Heat oil in pan, add eggs, 2 at a time and cook for 2 mins. 
+* `2 tbs` olive oil
+* `4` lightly beaten eggs
+
+> Heat olive oil in pan, add  lightly beaten eggs, 2 at a time and cook for 2 mins.
 
 ---
 
-> Transfer to plate, when cool enough, roll into a log and thinly slice. 
+> Transfer to plate, when cool enough, roll into a log and thinly slice.
 
 ---
 
-> Heat oil in wok, stir-fry egglpant for 5 mins, until golden and tender
+* `1 large` eggplant
+
+> Heat oil in wok, stir-fry 2cm cubed eggplant for 5 mins, until golden and tender
 
 ---
 
-> Pour boil water over frozen vegetables and leave to stand for 3 mins, then drain
+* `1 cup` frozen peas
+* `450g` frozen veggie
+
+> Pour boil water over frozen peas  and frozen veggie  and leave to stand for 3 mins, then drain
 
 ---
 
-> Add drained vegetables, sauce, rice or noodles to stir-fry and stir for 2 mins 
+* `1/3 cup` teriyaki sauce
+* `450g` rice or egg noodles
+
+> Add drained vegetables, teriyaki sauce, rice or egg noodles to stir-fry and stir for 2 mins
 
 ---
 
-> Add half the onion, egg to stir-fry 
+* `3` spring onions
+
+> Add half the spring onions, egg to stir-fry
 
 ---
 
-> Serve with remaining egg and sesame seeds. 
+* `1 tbs` sesame seeds
+
+> Serve with remaining egg and  sesame seeds.
+

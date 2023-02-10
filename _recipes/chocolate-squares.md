@@ -1,35 +1,32 @@
 ---
-title:  "Chocolate Squares"
+title: "Chocolate Squares"
+category: snacks
 image: chocolate-squares.jpg
 description: Guinane family recipe, slightly changed each generation.
-preptime: PT10m
-cooktime: PT20m
-tags: snacks
-category: snacks
-vegan: ✓
 ---
 
-* `1 cup` of flour
-* `1 cup` of sugar
-* `1 cup` of coconut
-* `1 cup` of wheat biscuits (4)
-* `1 cup` of sultanas
-* `2 tbsp` of cocoa
 
-> Mix dry ingredients together in a bowl
+* `1 cup` flour
+* `1 cup` sugar
+* `1 cup` coconut
+* `4` wheat biscuits
+* `1 cup` sultanas
+* `2 tbsp` cocoa
+
+> Mix flour sugar coconut wheat biscuits sultanas cocoa together in a bowl
 
 ---
 
-* walnuts or choc chips (optional)
+* `some` walnuts or @choc chips
 
-> Sometimes I add walnuts or choc chips if we have them
+> Sometimes I add walnuts or @choc chips if we have them
 
 ---
 
-* `1 cup` of almond milk
-* `2 tbsp` of margarine
+* `1 cup` almond milk
+* `2 tbsp` margarine
 
-> Mix in wet ingredients. You don't have to melt the butter but it's easier to mix if you do.
+> Mix in almond milk margarine. You don't have to melt the margarine but it's easier to mix if you do.
 
 ---
 
@@ -37,11 +34,11 @@ vegan: ✓
 
 ---
 
-* `1 cup` of icing sugar
-* `2 tbsp` of almond milk
-* `1 tbsp` of cocoa
+* `1 cup` icing sugar
+* `2 tbsp` almond milk
+* `1 tbsp` cocoa
 
-> Make chocolate icing and add once cool
+> Make chocolate icing with icing sugar almond milk cocoa and add once cool
 
 ---
 

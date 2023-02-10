@@ -1,47 +1,49 @@
 ---
-title:  "White Choc Cheesecake"
+title: "White Choc Cheesecake"
+category: desserts
 image: white-choc-cheesecake.jpg
 description: Wheatland Christmas favourite
-tags: desserts
-category: desserts
 ---
 
-* `200g` of milk arrowroot biscuits
 
-> Crush up bisuits in a blender
+* `200g` milk arrowroot biscuits
 
---- 
+> Crush up milk arrowroot biscuits in a blender
+
+---
 
 * `75g` melted butter
 
 > Make base out of biscuits and melted butter
 
---- 
+---
 
-* `1 cup` of lightly whipped cream
-* `3/4 cup` of castor sugar
+* `1 cup` whipped cream
+* `3/4 cup` castor sugar
 * `500g` cream cheese
 
-> Mix together
+> Mix together whipped cream castor sugar cream cheese
 
---- 
+---
 
-* `200g` white chocolate chips (melted)
+* `200g` white chocolate chips
 
-> Mix in melted chocolate
+> Melt and mix in white chocolate chips
 
---- 
+---
 
-* `2 tsp` gelatine (dissolved in 1/4 cup of boiling water)
+* `2 tsp` gelatine
+* `1/4cup` boiling water
 
-- Mix in melted galatine
+> Dissolve gelatine in boiling water and mix in
 
---- 
+---
 
 > Put mix on top of base
 
---- 
+---
 
-* `a few rows` of dark/milk chocolate
+* `a few rows` milk chocolate
 
-> Grate chocolate on top
+> Grate milk chocolate on top
+

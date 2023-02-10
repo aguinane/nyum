@@ -1,24 +1,24 @@
 ---
-title:  "Sausage Rolls"
-image: sausage-rolls.jpg
-tags: snacks
+title: "Sausage Rolls"
 category: snacks
+image: sausage-rolls.jpg
 ---
+
 
 > Preheat oven to 180 degrees
 
 ---
 
-* `2 slices` of toast
+* `2 slices` toast
 
-> Blend bread
+> Blend toast
 
 ---
 
-* 500g mince (lamb, chicken, or turkey)
-* 1 egg
+* `500g` lamb mince
+* `1` egg
 
-> Using hands mix mince, egg and breads together
+> Using hands mix lamb mince, egg and breads together
 
 ---
 
@@ -26,15 +26,17 @@ category: snacks
 
 ---
 
-* Pastry sheets
+* `3 sheets` pastry
 
-> Halve pastry sheets
+> Halve sheets of pastry
 
 ---
 
 > Place mince on pastry sheet, roll into log and cut.
 
 ---
+
+* `some` milk
 
 > Brush pastry with milk
 

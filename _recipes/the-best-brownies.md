@@ -1,11 +1,10 @@
 ---
-title:  "The Best Brownies"
-description: These are extremely unhealthy but super tasty
-image: the-best-brownies.jpg
-tags: snacks
+title: "The Best Brownies"
 category: snacks
-veggie: ✓
+image: the-best-brownies.jpg
+description: These are extremely unhealthy but super tasty
 ---
+
 
 > Preheat oven to 180 degrees
 
@@ -15,26 +14,25 @@ veggie: ✓
 
 ---
 
-* 125g butter (not margarine)
-* 200g brown sugar
-* 125g dark choclate - chooped
+* `125g` butter
+* `200g` brown sugar
+* `125g` dark choclate
 
-> Place butter, sugar and chocolate in pan and melt on stove, sitrring regularly
-
----
-
-* 3 eggs
-
-
-> Remove from heat and beat in eggs (one at a time) with spoon 
+> Place butter (not margarine), brown sugar and chopped dark choclate in pan and melt on stove, sitrring regularly
 
 ---
 
-* 2/3 cup plain flour or almond meal
-* 1/3 cup coca powder
-* 1/4 tsp baking powder 
+* `3` eggs
 
-> Sift flour, coca butter anbd baking powder
+> Remove from heat and beat in eggs (one at a time) with spoon
+
+---
+
+* `2/3 cup` plain flour
+* `1/3 cup` cocoa powder
+* `1/4 tsp` baking powder
+
+> Sift plain flour, cocoa powder, and baking powder
 
 ---
 
@@ -42,15 +40,17 @@ veggie: ✓
 
 ---
 
-* 150g walnuts (optional)
+* `150g` walnuts
 
-> Stir in walnuts
+> Optionally, Stir in walnuts
 
 ---
 
 > Pour into pan and bake for 35-40mins
 
 ---
+
+* `some` icing sugar
 
 > Sprinkle with icing sugar
 

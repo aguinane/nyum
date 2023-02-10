@@ -1,39 +1,41 @@
 ---
-title:  "Mediterranean Halloumi Bake"
-image: mediterranean-halloumi-bake.jpg
-tags: mains
+title: "Mediterranean Halloumi Bake"
 category: mains
-veggie: ✓
+image: mediterranean-halloumi-bake.jpg
 ---
-
-* 1 tbspn olive oil
-* 1 onion finely chopped
-* 2 garlic cloves
-* 2 zucchini diced
-* 15 cherry tomatoes quartered
-* 3 tbspns tomato puree
-* 1 tbspn tumeric
-* 1 tbspn cumin
-* 1 tbspn smoked paprika
-* 1 small frsh chilli finely chopped and deseeded
-* salt and pepper
-* 180g halloumi sliced
-* 1 handful fresh basil chopped
 
 
 > Preheat oven to 220 degress
 
 ---
 
-> Heat oil and saute onions for 2 mins
+* `1 tbspn` olive oil
+* `1` onion
+
+> Heat olive oil and saute  onion for 2 mins
 
 ---
 
-> Add garlic and cook for another min
+* `2 cloves` garlic
+
+> Add garlic  and cook for another min
 
 ---
 
-> Add zucchinis, tomatoes, tomato puree and spices, cover with lid and simmer for 20 mins
+* `2` zucchini
+* `15` cherry tomatoes
+* `3 tbspns` tomato puree
+* `1 tbspn` tumeric
+* `1 tbspn` cumin
+* `1 tbspn` smoked paprika
+* `1 small` chilli
+* `some` salt
+
+> Add diced zucchini, quartered cherry tomatoes, tomato puree and tumeric, cumin, smoked paprika, chilli, salt and @pepper.
+
+---
+
+> Cover with lid and simmer for 20 mins
 
 ---
 
@@ -41,9 +43,13 @@ veggie: ✓
 
 ---
 
-> Cover the dish with the halloumi slice, place it under the grill until halloumi slice are golden brown.
+* `180g` halloumi
+
+> Cover the dish with the sliced halloumi, place it under the grill until halloumi slice are golden brown.
 
 ---
+
+* `1 handful` basil
 
 > Sprinkle with fresh basil and enjoy
 

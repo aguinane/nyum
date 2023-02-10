@@ -1,18 +1,15 @@
 ---
-title:  "Chocolate Cake"
-image: chocolate-cake.jpg
-tags: desserts
+title: "Chocolate Cake"
 category: desserts
-veggie: ✓
+image: chocolate-cake.jpg
 ---
+
 
 * `2 cups` self-raising flour
 * `1 cup` sugar
 * `2 tbsp` cocoa
 
----
-
-> Mix dry ingregients in mixing bowl
+> Mix self-raising flour, sugar and cocoa  in mixing bowl.
 
 ---
 
@@ -21,7 +18,7 @@ veggie: ✓
 * `2 tbsp` butter
 * `1 tsp` vanilla essence
 
-> Mix in wet ingredients with beaters
+> Mix in eggs milk butter vanilla essence with beaters
 
 ---
 
@@ -32,6 +29,10 @@ veggie: ✓
 * `1 tbsp` cocoa
 * `1 cup` icing mixture
 * `1 tbsp` milk
+
+> Make icing with cocoa icing mixture milk
+
+---
 
 > Add chocolate icing once cool
 

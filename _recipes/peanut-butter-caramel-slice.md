@@ -1,24 +1,23 @@
 ---
-layout: recipe
-title:  "Peanut Butter Caramel Slice"
-image: peanut-butter-caramel-slice.jpg
-tags: snacks
+title: "Peanut Butter Caramel Slice"
 category: snacks
+image: peanut-butter-caramel-slice.jpg
 ---
+
 
 > Grease 20 x 30cm tray and preheat oven to 180 degrees
 
 ---
 
-*  `250g` Marie biscuits
+* `250g` Marie biscuits
 
-> Process biscuit in food processor until finely crumbled
+> Marie biscuits Process biscuit in food processor until finely crumbled
 
 ---
 
-*  `170g` butter 
+* `170g` butter
 
-> Melt 170g butter in saucepan and add to biscuit mix
+> Melt butter in saucepan and add to biscuit mix
 
 ---
 
@@ -26,9 +25,9 @@ category: snacks
 
 ---
 
-*  `1/2 cup` peanut butter
-*  `400g` condensed milk
-*  `2 tbsp` golden syrup
+* `1/2 cup` peanut butter
+* `400g` condensed milk
+* `2 tbsp` golden syrup
 
 > Melt peanut butter, condensed milk and golden syrup in suacepan, stirring constantly over low heat until mixture boils and thickens
 
@@ -42,10 +41,10 @@ category: snacks
 
 ---
 
-*  `125g` dark chocolate
-*  `30g` butter
+* `125g` dark chocolate
+* `30g` butter
 
-> Melt chocolate and remaining butter in bowl over saucepan of simmering water
+> dark chocolate butter Melt chocolate and remaining butter in bowl over saucepan of simmering water
 
 ---
 

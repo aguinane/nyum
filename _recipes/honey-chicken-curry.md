@@ -1,27 +1,22 @@
 ---
-title:  "Honey Chicken Curry"
+title: "Honey Chicken Curry"
+category: curries
 image: honey-chicken-curry.jpg
-tags: mains
-category: mains
 ---
 
-* 2 chicken breasts
-* 1/2 bottle of wholegrain mustard
-* ~1/2 cup honey
-* ~1 cup butter (melted)
-* 4 tbsp of curry powder
-* cashews
 
+* `1` chicken breasts
 
-> Cut up the chicken and brown a bit in pan/wok
+> Cut up the chicken breasts and brown a bit in pan/wok.
 
 ---
 
-> Add cashews
+* `1 cup` melted butter
+* `1/2 bottle` wholegrain mustard
+* `~1/2 cup` honey
+* `4 tbsp` curry powder
 
----
-
-> Mix mustard, honey and butter to make sauce
+> Make sauce from melted butter,  wholegrain mustard honey and  curry powder.
 
 ---
 
@@ -29,9 +24,12 @@ category: mains
 
 ---
 
-> Serve with rice and naan
+* `some` cashews
+* `1 can` lentils
+
+> Add  cashews  and lentils or chickpeas.
 
 ---
 
-The exact recipe for this changes each time. I just wing it a bit and make to taste.
-Use lentils and chickpeas instead of chicken to make it vegetarian.
+> Serve with rice and naan
+

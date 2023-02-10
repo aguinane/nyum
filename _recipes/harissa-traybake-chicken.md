@@ -1,32 +1,28 @@
 ---
-title:  "Harissa Traybake Chicken"
-image: harissa-traybake-chicken.jpg
-tags: mains
+title: "Harissa Traybake Chicken"
 category: mains
+image: harissa-traybake-chicken.jpg
 ---
-
-* 1 whole chicken
-* 1 red capscium
-* 1 yellow capsicum
-* 2 red onion
-* harrisa seasoning 
-* 1/4 cup olive oil
-* red wine vinegar
 
 
 > Preheat oven to 180 degrees
 
 ---
 
-> Grease oven tray with spray oil
+> Grease oven tray with oil
 
 ---
 
-> Slice onions into quarters and pull layers apart
+* `2` red onion
+
+> Slice red onion into quarters and pull layers apart
 
 ---
 
-> Remove seeds from capsicum and slice into large sections 
+* `1` red capscium
+* `1` yellow capsicum
+
+> Remove seeds from red capscium and yellow capsicum and slice into large sections
 
 ---
 
@@ -34,13 +30,21 @@ category: mains
 
 ---
 
-> Drizzle olive oil and vinegar over vegetables and season with salt and pepper
+* `some` red wine vinegar
+* `some` salt
+
+> Drizzle oil and red wine vinegar over vegetables and season with salt and @pepper
 
 ---
+
+* `1/4 cup` olive oil
+* `some` harrisa
 
 > Mix olive oil and harrisa seasoning to make a paste
 
 ---
+
+* `1 whole` chicken
 
 > Butterfly chicken by cuting along the spine
 
@@ -59,3 +63,4 @@ category: mains
 ---
 
 > Serve with cous cous or roast potatoes
+

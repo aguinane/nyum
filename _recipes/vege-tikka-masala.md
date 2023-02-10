@@ -1,29 +1,34 @@
 ---
 title: "Vege Tikka Masala"
-tags: mains
-category: mains
-veggie: ✓
+category: curries
 ---
 
-* sweet potato or potato
-* onion
-* can of lentils
-* can of diced tomatoes
-* can of coconut cream
-* 3-4tbsp of tikka maslala paste
-* chickpeas (optional)
-* carrot (optional)
 
+* `some` sweet potato
 
-> Slice potato and boil in microwave for 10 mins
+> Slice sweet potato and boil in microwave for 10 mins
 
 ---
 
-> Saute onion, add tomatoes and paste and stir
+* `some` onion
+* `1 can` diced tomatoes
+* `3-4tbsp` tikka maslala paste
+
+> Saute onion, add diced tomatoes and tikka maslala paste and stir
 
 ---
+
+* `1 can` coconut cream
 
 > Add potato and coconut cream
+
+---
+
+* `1 can` lentils
+* `1 can` chickpeas
+* `some` carrot
+
+> Optionally add lentils or chickpeas and carrot
 
 ---
 

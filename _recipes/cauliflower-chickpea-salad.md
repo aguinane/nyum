@@ -1,11 +1,9 @@
 ---
-layout: recipe
-title:  "Cauliflower Chickpea Salad"
-image: cauliflower-chickpea-salad.jpg
-tags: salads
+title: "Cauliflower Chickpea Salad"
 category: salads
-
+image: cauliflower-chickpea-salad.jpg
 ---
+
 
 * `2 cloves` garlic
 
@@ -17,9 +15,10 @@ category: salads
 
 ---
 
-* 1/2 cup greek yoghurt
+* `1/2 cup` greek yoghurt
+* `2 tbs` water
 
-> Add garlic to yoghurt with 2 tbs of water, stir and place in fridge 
+> Add garlic to greek yoghurt  with water, stir and place in fridge
 
 ---
 
@@ -29,14 +28,14 @@ category: salads
 
 * `1 tsp` ground cumin
 * `1 tsp` ground paprika
-* `1/4` cup olive oil
+* `1/4 cup` olive oil
 
-> Combine cumin, paprika, 1/4 cup of olive oil, salt and pepper
+> Combine ground cumin,  ground paprika, olive oil and salt and pepper
 
 ---
 
-* `1 large` cauliflower, cut into large florets
-* `400g can` of chickpeas, rinsed and drained
+* `1 large` cauliflower
+* `400g can` chickpeas
 
 > Add cauliflower and chickpeas and cook with mxture
 
@@ -49,9 +48,9 @@ category: salads
 * `1/4 cup` lime juice
 * `1 tsp` Dijon mustard
 * `1 tsp` honey
-* `1/4` cup olive oil
+* `1/4 cup` olive oil
 
-> Whisk lime juice, mustard, honey and oil. 
+> Whisk lime juice, Dijon mustard, honey and olive oil.
 
 ---
 
@@ -59,15 +58,14 @@ category: salads
 
 ---
 
-* 2 cups cut coleslaw
-* 1/4 red onion, thinly sliced
+* `2 cups` coleslaw
+* `1/4` red onion
 
-
-> Sprinkle coleslaw and onion mixture
+> Sprinkle coleslaw and diced red onion mixture
 
 ---
 
-> Top with cauliflower, chickpeas. 
+> Top with cauliflower, chickpeas.
 
 ---
 
@@ -75,10 +73,9 @@ category: salads
 
 ---
 
-* `100g` Danish style feta, crumbled
-* `2` radishes, sliced
-*  `2 tbsp` parsley
+* `100g` Danish style feta
+* `2` radish
+* `2 tbsp` parsley
 
-> Top with feta and radish to serve
-
+> Top with crumbled Danish style feta, sliced radish and parsley to serve
 

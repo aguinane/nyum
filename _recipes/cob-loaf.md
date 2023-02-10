@@ -1,9 +1,9 @@
 ---
-title:  "Cob Loaf"
-image: cob-loaf.jpg
-tags: sides
+title: "Cob Loaf"
 category: sides
+image: cob-loaf.jpg
 ---
+
 
 > Preheat oven to 180
 
@@ -11,31 +11,40 @@ category: sides
 
 * `500g` cob loaf
 
-> Cut the top of cob loaf off to form lid. Scoop bread from centre of loaf. 
-> Tear or roughly chop bread pieces.
+> Cut the top of cob loaf off to form lid. Scoop bread from centre of loaf.  Tear or roughly chop bread pieces.
 
 ---
 
-* `1 tablespoon` olive oil
-  
-> Heat oil in a large frying pan.
+* `1 tbl` olive oil
+
+> Heat olive oil in a large frying pan.
 
 ---
 
-* `1 small` onion, finely chopped
-* `200g` shortcut bacon rashers, diced
-  
-> Add onion and bacon. Cook, stirring, for 5 minutes or until bacon is browned and onion has softened.
+* `1 small` onion
+* `200g` shortcut bacon rashers
+
+> Add onion and  shortcut bacon rashers.
 
 ---
 
-* `2 tablespoons` chopped chives, plus extra to serve
-* `250g block` cream cheese, softened
-* `2/3 cup (160ml)` cream
+> Cook, stirring, for 5 minutes or until bacon is browned and onion has softened.
+
+---
+
+* `250g` cream cheese
+* `2/3 cup` cream
 * `2/3 cup` sour cream
-* `1 1/2 cups` grated cheddar cheese
+* `1 1/2 cups` cheddar cheese
+* `2 tablespoons` chives
 
-> Add creamed cheese, sour cream, cheese and chives. Mix until combined. Season with salt and pepper.
+> Add cream cheese , cream, sour cream, grated cheddar cheese  and chopped chives .
+
+---
+
+* `some` salt
+
+> Mix until combined. Season with salt and @pepper.
 
 ---
 

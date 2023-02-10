@@ -1,25 +1,23 @@
 ---
-layout: recipe
-title:  "Pikelets"
+title: "Pikelets"
+category: snacks
 image: pikelets.jpg
 size: 10 pikelets
-tags: snacks
-category: snacks
-veggie: ✓
 ---
 
-* `3/4 cups` of milk
+
+* `3/4 cups` milk
 * `1` egg
 * `1 tbsp` caster sugar
 * `1 tsp` vanilla essence
 
-> Beat milk, egg, sugar and vanilla 
+> Beat milk, egg, caster sugar and vanilla essence
 
 ---
 
-* `1 cup` SR flour, sifted
+* `1 cup` SR flour
 
-> Add in flour
+> Add in SR flour
 
 ---
 

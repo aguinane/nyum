@@ -1,27 +1,25 @@
 ---
-title:  "Choc Self Saucing Pudding"
-image: choc-self-saucing-pudding.jpg
-time: 30m
-tags: desserts
+title: "Choc Self Saucing Pudding"
 category: desserts
-veggie: ✓
+image: choc-self-saucing-pudding.jpg
 ---
+
 
 * `1 cup` self-raising flour
 * `1/3 cup` sugar
 * `3 tbsp` cocoa
-* salt
+* `some` salt
 
-> Mix dry ingredients together
+> Mix self-raising flour sugar cocoa salt together
 
 ---
 
 * `1/2 cup` milk
-* `1/2 cup` butter, melted
-* `1 `egg
+* `1/2 cup` melted butter
+* `1` egg
 * `1 tsp` vanilla
 
-> Add egg, milk and butter and mix in
+> Add milk melted butter egg vanilla and mix in
 
 ---
 
@@ -31,13 +29,13 @@ veggie: ✓
 
 * `1/2 cup` brown sugar
 * `3 tbsp` cocoa
-  
-> Mix together the brown sugar and cocoa and sprinkle on top
+
+> Mix together the brown sugar cocoa and sprinkle on top
 
 ---
 
 * `1 cup` boiling water
-  
+
 > Gently add boiling water on top to disolve sauce
 
 ---

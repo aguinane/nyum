@@ -1,20 +1,20 @@
 ---
-title:  "Trifle"
+title: "Trifle"
+category: desserts
 image: trifle.jpg
 description: It's not Christmas if you don't make a trifle.
-tags: desserts
-category: desserts
 ---
 
-* `3 plates` of jelly
+
+* `3 plates` jelly
 
 > Make the jelly and set overnight
 
 ---
 
-* `2 small` sponge cakes or jam rolls
+* `2 small` sponge cake
 
-> Cut up cake into cubes in big bowl
+> Cut up sponge cake into cubes in big bowl
 
 ---
 
@@ -22,12 +22,13 @@ category: desserts
 * `2x2/3 cup` custard powder
 * `2x4 cups` milk
 
-> Make 2 batches of custard
+> Make 2 batches of custard with caster sugar custard powder milk
 
---- 
+---
 
 > Add custard on top and put in fridge until cool
 
---- 
+---
 
 > Cut up the jelly and add on top (next day)
+

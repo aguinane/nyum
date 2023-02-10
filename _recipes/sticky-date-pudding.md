@@ -1,28 +1,19 @@
 ---
-title:  "Sticky Date Pudding"
-image: sticky-date-pudding.jpg
-tags: desserts
+title: "Sticky Date Pudding"
 category: desserts
-veggie: ✓
+image: sticky-date-pudding.jpg
 ---
-
-
-
-
-
-
-
 
 
 > Preheat oven to 180C
 
 ---
 
-* `280g` pitted dates, chopped
-* `1 tsp` bi carb soda 
-* `1 cup`  boiling water 
+* `280g` pitted dates
+* `1 tsp` bi carb soda
+* `1 cup` boiling water
 
-> Place dates in a bowl, sprinkle over baking soda and water in saucepan.
+> Chop pitted dates and place in a bowl. Sprinkle over  bi carb soda and boiling water in saucepan.
 
 ---
 
@@ -30,23 +21,23 @@ veggie: ✓
 
 ---
 
-* `1/4 cup` brown sugar , loosely packed
-* `6 tbsp` unsalted butter , softened
-  
-> Beat butter and sugar in a bowl until combined and smooth
+* `1/4 cup` brown sugar
+* `6 tbsp` butter 
+
+> Beat brown sugar and butter  in a bowl until combined and smooth
 
 ---
 
 * `2` eggs
-  
+
 > Beat in eggs
 
 ---
 
-* `1 1/4 cups`  plain flour
+* `1 1/4 cups` plain flour
 * `1 1/2 tsp` baking powder
 
-> Add flour then sprinkle baking soda across the surface.
+> Add plain flour  then sprinkle baking powder across the surface.
 
 ---
 
@@ -59,3 +50,4 @@ veggie: ✓
 ---
 
 > Bake for 12-15mins
+

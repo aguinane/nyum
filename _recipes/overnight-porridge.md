@@ -1,18 +1,16 @@
 ---
-title:  "Overnight Porridge"
-image: overnight-porridge.jpg
-tags: breakfasts
+title: "Overnight Porridge"
 category: breakfasts
-veggie: ✓
+image: overnight-porridge.jpg
 ---
 
-* 1/2 cup oats
-* tbsp chia seeds
-* 1/2 almond/oat milk
-* tbsp greek yoghurt
 
+* `1/2 cup` oats
+* `1 tbsp` chia seeds
+* `1/2 cup` almond milk
+* `1 tbsp` greek yoghurt
 
-> Place all ingredients in a glass jar
+> Place oats, chia seeds, almond milk and greek yoghurt in a glass jar
 
 ---
 
@@ -21,3 +19,4 @@ veggie: ✓
 ---
 
 > Serve with your choice of toppings
+

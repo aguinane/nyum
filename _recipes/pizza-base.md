@@ -1,10 +1,10 @@
 ---
 title: "Pizza Base"
-tags: mains
-category: mains
+category: components
 size: 2 bases
 source: http://www.cookingforengineers.com/recipe/172/Pan-Pizza
 ---
+
 
 > Preheat oven to 90 degrees
 
@@ -15,14 +15,19 @@ source: http://www.cookingforengineers.com/recipe/172/Pan-Pizza
 * `1/2 tsp` salt
 * `2 tsp` sugar
 * `2 tbsp` olive oil
-* `1/2 cup` warm milk
-* warm water
 
-> Mix all the ingredients together, adding warm water until consistency is right.
+> Mix plain flour,  yeast, salt, sugar, and olive oil in a bowl.
 
 ---
 
-> Knead for 10 mins or use dough hook for 5 mins then shape into ball
+* `1/2 cup` warm milk
+* `1/2 cup` warm water
+
+> Add warm milk and warm water until consistency is right.
+
+---
+
+> Knead for 10 mins or use dough hook for 5 mins then shape into ball.
 
 ---
 
@@ -35,3 +40,4 @@ source: http://www.cookingforengineers.com/recipe/172/Pan-Pizza
 ---
 
 > Spray bottom of bases with oil and prick top with fork
+

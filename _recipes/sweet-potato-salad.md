@@ -1,19 +1,17 @@
 ---
-layout: recipe
-title:  "Sweet Potato Salad"
-image: sweet-potato-salad.jpg
-tags: salads
+title: "Sweet Potato Salad"
 category: salads
-veggie: ✓
+image: sweet-potato-salad.jpg
 ---
+
 
 > Preheat oven to 180 degrees
 
 ---
 
-* 1 large sweet potato
+* `1 large` sweet potato
 
-> Cut potato into 2 cubes
+> Cut sweet potato into 2 cubes
 
 ---
 
@@ -21,26 +19,26 @@ veggie: ✓
 
 ---
 
-> Roast for 30 mins or until soft 
+> Roast for 30 mins or until soft
 
 ---
 
-* 1 bag of spinach and rockets leaves
-* pine nutes or crushed cashews
+* `1 bag` spinach and rockets leaves
+* `some` pine nutes
 
-> Wash spinach and rocket leaves, and nuts to mix
-
----
-
-* balsamic vinegar
-* honey
-  
-> Combine balsamic vingear and honey and drizzle over salad
+> Add spinach and rockets leaves and pine nutes to mix
 
 ---
 
-* feta cheese, crumbled 
-* avocado
- 
-> Serve with feta and avocado
+* `some` balsamic vinegar
+* `some` honey
+
+> Combine balsamic vinegar and honey and drizzle over salad
+
+---
+
+* `some` feta cheese
+* `some` avocado
+
+> Serve with crumbled feta cheese and avocado
 

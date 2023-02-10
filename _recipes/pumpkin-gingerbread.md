@@ -1,10 +1,9 @@
 ---
-title:  "Pumpkin Gingerbread"
-tags: snacks
+title: "Pumpkin Gingerbread"
 category: snacks
-veggie: ✓
 image: pumpkin-gingerbread.jpg
 ---
+
 
 > Preheat oven to 180 degrees
 
@@ -14,9 +13,9 @@ image: pumpkin-gingerbread.jpg
 
 ---
 
-* `400g` pumpkin, peeled
-  
-> Steam pumpkin for 10 mins
+* `400g` pumpkin
+
+> Steam peeled pumpkin for 10 mins
 
 ---
 
@@ -26,10 +25,10 @@ image: pumpkin-gingerbread.jpg
 
 * `2 cups` SR flour
 * `1/2 cup` sugar
-* `2 tsp` ground ginger 
+* `2 tsp` ground ginger
 * `1 tsp` mixed spice
 
-> Combine flour, sugar, ginger and mixed spice in bowl
+> Combine SR flour , sugar, ground ginger  and mixed spice in bowl
 
 ---
 
@@ -37,7 +36,7 @@ image: pumpkin-gingerbread.jpg
 * `1/2 cup` canola oil
 * `1/2 cup` milk
 
-> Whisk eggs, oil and milk in jug 
+> Whisk eggs, canola oil and milk in jug
 
 ---
 
@@ -54,3 +53,4 @@ image: pumpkin-gingerbread.jpg
 ---
 
 > Serve with maragine and honey
+

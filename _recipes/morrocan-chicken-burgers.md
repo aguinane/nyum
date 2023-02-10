@@ -1,21 +1,25 @@
 ---
 title: "Morrocan Chicken Burgers"
-image: morrocan-chicken-burgers.jpg
-tags: mains
 category: mains
+image: morrocan-chicken-burgers.jpg
 ---
 
-* chicken thighs
-* Harissa & Morrocan spice
-* 1 red onion
-* greek yoghurt
 
-> Cut up chicken thighs and marinate in harissa and morrocan spice and oil
+* `some` chicken thighs
+* `some` harissa and @morrocan spice
+* `some` oil
+
+> Cut up chicken thighs and marinate in harissa and @morrocan spice and oil
 
 ---
+
+* `1` red onion
 
 > Cook on BBQ or pan fry with red onion
 
 ---
 
-> Chuck on a burger with greek yohurt and salad
+* `some` greek yoghurt
+
+> Chuck on a burger with greek yoghurt and salad
+

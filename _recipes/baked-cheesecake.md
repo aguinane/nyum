@@ -1,37 +1,37 @@
 ---
-title:  "Baked Cheesecake"
-image: baked-cheesecake.jpg
-tags: desserts
+title: "Baked Cheesecake"
 category: desserts
-veggie: ✓
+image: baked-cheesecake.jpg
 ---
+
 
 > Preheat oven to 160 degrees and grease round spring-form pan
 
 ---
 
 * `1 packet` milk arrowroot biscuits
-* `150g` margarine
 
-> Blend biscuits until finely chopped
-> Add margarine
-> Press mixture over based
-> Refrigerate for 15mins
+> Blend milk arrowroot biscuits
 
 ---
 
+* `150g` margarine
+
+> Add margarine and refrigerate for 15mins
+
+---
 
 * `500g` cream cheese
 * `3/4 cup` caster sugar
-* lemon rind
+* `some` lemon rind
 
-> Beat cream cheese, , sugar, lemon rind together. 
+> Beat cream cheese, caster sugar, and  lemon rind together.
 
 ---
 
 * `3` eggs
 
-> Add eggs one at a time until combined. 
+> Add eggs one at a time until combined.
 
 ---
 
@@ -39,11 +39,11 @@ veggie: ✓
 
 > Add lemon juice and beat for another minute
 
---- 
+---
 
-> Pour mixture over biscuit base
-> Bake for 50 mins or until filling has set. 
+> Pour mixture over biscuit base and bake for 50 mins or until filling has set.
 
 ---
 
 > Allow to cool in oven, and then refrigerate for 4 hours before eating
+

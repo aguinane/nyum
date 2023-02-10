@@ -1,38 +1,36 @@
 ---
-title:  "Spinach and Lentil Stew"
-tags: mains
+title: "Spinach and Lentil Stew"
 category: mains
-veggie: ✓
 ---
 
-* olive oil
-* 1 tbs curry powder
-* 1 onion
-* 1 carrot
-* 1 celery
-* 3 garlic cloves, crushed
-* chilli flakes
-* 2 cups of vegetable stock
-* 2 x 400g can diced tomatoes
-* 2 x brown lentils, drained and rinsed
-* spinach leaves
-* lemon juice
-* lebananese bread
 
+* `some` olive oil
 
-> Heat oil in frying pan
+> Heat olive oil in frying pan
 
 ---
 
-> Cook vegetables unitl soft
+* `1` onion
+* `1` carrot
+* `1` 1 celery
+
+> Cook onion carrot 1 celery until soft
 
 ---
 
-> Add curry powder, garlic and chilli, cook until fragnant
+* `1 tbs` curry powder
+* `3 cloves` garlic
+* `some` chilli flakes
+
+> Add curry powder, garlic and  chilli flakes, cook until fragnant
 
 ---
 
-> Add stock, tomatoes and lentils and bring to boil
+* `2 cups` vegetable stock
+* `2 x 400g can` diced tomatoes
+* `2 cans` lentils
+
+> Add vegetable stock, diced tomatoes and lentils and bring to boil
 
 ---
 
@@ -40,9 +38,14 @@ veggie: ✓
 
 ---
 
-> Stir in spinach and lemon juice until spinach has wilted
+* `some` spinach leaves
+* `some` lemon juice
+
+> Stir in spinach leaves and lemon juice until spinach has wilted
 
 ---
 
-> Serve with lebanese bread
+* `some` lebananese bread
+
+> Serve with lebananese bread
 

@@ -1,26 +1,30 @@
 ---
 title: "Vege Thai Curry"
+category: curries
 image: vege-thai-curry.jpg
-tags: mains
-category: mains
-veggie: ✓
 ---
 
-* onion
-* can of coconut cream
-* 3-4tbsp of red or green thai curry paste
-* capsicum
-* green beans
-* chicken or fish optional
 
+* `some` onion
+* `some` capsicum
 
-> Saute onion and capsicum, add paste and stir
+> Saute onion and capsicum
 
 ---
 
-> Boil green benas in microwave
+* `3-4tbsp` red thai curry paste
+
+> Add red thai curry paste  and stir
 
 ---
+
+* `some` green beans
+
+> Boil green beans in microwave
+
+---
+
+* `1 can` coconut cream
 
 > Add coconut cream
 

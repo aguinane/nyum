@@ -1,32 +1,28 @@
 ---
-layout: recipe
 title: "Roast Lamb with Olive Tapenade"
-image: roast-lamb-with-olive-tapenade.jpg
-tags: mains
 category: mains
+image: roast-lamb-with-olive-tapenade.jpg
 ---
 
-* 2kg lamb leg
-* 1/3 cup maple syrup
-* 1 1/2 tbs balsamic vinegar glaze
-* 1 bunch parsley
-* 230g jar pitted sicilian olives
-* 1/2 cup olive oil
-* 1 small lemon, juiced
 
 > Preheat oven to 180 degrees
 
 ---
 
-> Place lamb in baking dish, pour 1 cup of water over base of dish
+* `2kg` lamb leg
+
+> Place lamb leg in baking dish, pour 1 cup of water over base of dish
 
 ---
 
-> Combine maple syrup and glaze in bowl. 
+* `1/3 cup` maple syrup
+* `1 1/2 tbs` balsamic vinegar glaze
+
+> Combine maple syrup and balsamic vinegar glaze in bowl.
 
 ---
 
-> Baste lamb with one-third of maple glaze. 
+> Baste lamb with one-third of maple glaze.
 
 ---
 
@@ -38,15 +34,19 @@ category: mains
 
 ---
 
-> Finely chop parsley and olives
+* `1 bunch` parsley
+* `230g jar` pitted sicilian olives
+
+> Finely chop parsley and pitted sicilian olives
 
 ---
 
-> Combine parsley, olives, lemon juice and olive oil. Season with pepper. 
+* `1 small` lemon juice
+* `1/2 cup` olive oil
+
+> Combine parsley, olives, lemon juice and olive oil. Season with pepper.
 
 ---
 
-> Top lamb with olive tapenade. 
-
-
+> Top lamb with olive tapenade.
 

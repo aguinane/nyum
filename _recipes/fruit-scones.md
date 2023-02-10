@@ -1,20 +1,12 @@
 ---
-title:  "Fruit Scones"
-image: fruit-scones.jpg
-tags: snacks
+title: "Fruit Scones"
 category: snacks
-veggie: ✓
+image: fruit-scones.jpg
 ---
 
-* 150 g dried fruit for soaking
-* orange juice
-* 150 g  butter
-* 500 g self-raising flour
-* 2 level teaspoons baking powder
-* 2 heaped teaspoons caster sugar
-* 2 eggs
-* 4 tablespoons milk
 
+* `150g` dried fruit
+* `some` orange juice
 
 > Put the dried fruit into a bowl & soak in orange juice
 
@@ -24,11 +16,19 @@ veggie: ✓
 
 ---
 
-> Put your butter, flour, baking powder, sugar and pinch of salt into a mixing bowl and make dough
+* `150g` butter
+* `500 g` self-raising flour
+* `2 level teaspoons` baking powder
+* `2 heaped teaspoons` caster sugar
+
+> Put your butter, self-raising flour, baking powder , caster sugar  and pinch of salt into a mixing bowl and make dough
 
 ---
 
-> Make a well in the dough, add the eggs and milk, and stir it up with a spatula.
+* `2` eggs
+* `4 tablespoons` milk
+
+> Make a well in the dough, add the eggs  and milk , and stir it up with a spatula.
 
 ---
 
@@ -61,3 +61,4 @@ veggie: ✓
 ---
 
 > Serve with cream and jam.
+

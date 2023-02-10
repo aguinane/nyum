@@ -1,43 +1,43 @@
 ---
 title: "Pad Thai"
-image: pad-thai.jpg
-tags: mains
 category: mains
+image: pad-thai.jpg
 ---
 
-* rice-stick noodles
 
-> Soak the noodles in warm water for 10mins and then drain
+* `some` rice-stick noodles
 
---- 
-
-* 2 tbsp oil
-* 2 garlic cloves
-* 2 chillies
-* 200g chicken or pork
-
-> Stir fry oil, garlic, chillies and meat for 2-3 min
+> Soak the rice-stick noodles in warm water for 10mins and then drain
 
 ---
 
-* chives
+* `2 tbsp` oil
+* `2 cloves` garlic
+* `2` chillies
+* `200g` chicken or pork
+
+> Stir fry oil, garlic, chillies and chicken or pork for 2-3 min
+
+---
+
+* `some` chives
 
 > Add the chives and noodles, cover and cook for 2 mins
 
 ---
 
-* 2 tbsp fish sauce
-* lime juice
-* 2 tsp brown sugar
-* 2 eggs (beaten)
+* `2 tbsp` fish sauce
+* `some` lime juice
+* `2 tsp` brown sugar
+* `2` eggs (beaten)
 
-> Add fish sauce, lime juice, sugar and eggs
+> Add fish sauce, lime juice, brown sugar and eggs (beaten)
 
 ---
 
-* 115g bean sprouts
-* 115g unsalted peanuts
-* crispy fried onion
+* `115g` bean sprouts
+* `115g` unsalted peanuts
+* `some` crispy fried onion
 
-> Stir in beansprouts, peanuts and serve with fried onion
+> Stir in bean sprouts, unsalted peanuts and serve with crispy fried onion
 

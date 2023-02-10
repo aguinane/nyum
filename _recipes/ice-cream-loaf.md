@@ -1,30 +1,29 @@
 ---
-layout: recipe
-title:  "Ice Cream Loaf"
-tags: desserts
+title: "Ice Cream Loaf"
 category: desserts
 ---
 
-* 1 x 395g can condensed milk 
-* 600ml cream
 
-> Beat condensed milk and cream until thick
+* `1 x 395g can` condensed milk
+* `600ml` cream
 
----
-
-* 290g dark chocolate chips, melted
- 
-> Gradually add melted chocolate until smooth
+> Beat condensed milk cream until thick
 
 ---
 
-* 2 cups frozen raspberries 
+* `290g` melted dark chocolate chips
 
-> Add frozen berries and combine
-> Spoon mixture in to loaf tin and freeze overnight
+> Gradually add melted dark chocolate chips until smooth
 
 ---
 
-* fresh raspberries to serve
+* `2 cups` frozen raspberries
 
-> Serve with fresh berries
+> Add frozen raspberries and combine. Spoon mixture in to loaf tin and freeze overnight
+
+---
+
+* `some` fresh raspberries
+
+> Serve with fresh raspberries
+

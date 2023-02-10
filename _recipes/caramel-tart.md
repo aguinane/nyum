@@ -1,23 +1,22 @@
 ---
-title:  "Caramel Tart"
-description: "This recipe comes from Lauren who enjoys a good caramel tart"
-image: caramel-tart.jpg
-tags: desserts
+title: "Caramel Tart"
 category: desserts
-veggie: ✓
+image: caramel-tart.jpg
+description: This recipe comes from Lauren who enjoys a good caramel tart
 ---
+
 
 > Preheat oven to 180 degrees and grease tart pan
 
 ---
 
-* `1 packet` of milk arrowroot biscuits
+* `1 packet` milk arrowroot biscuits
 
-> Blend biscuits into a fine crumb
+> Blend milk arrowroot biscuits into a fine crumb
 
 ---
 
-* margarine
+* `some` margarine
 
 > Melt margarine and add to biscuit until it clumps togther
 
@@ -25,13 +24,15 @@ veggie: ✓
 
 > Place in oven until hard then place in fridge for an hour
 
---- 
+---
 
-* `1 can` of Caramel condensed milk
+* `1 can` caramel condensed milk
 
 > Whisk caramel condensed milk
 
---- 
+---
+
+* `some` whipped cream
 
 > Serve with whipped cream
 

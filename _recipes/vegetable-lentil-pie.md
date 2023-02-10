@@ -1,38 +1,34 @@
 ---
-title:  "Vegetable Lentil Pie"
-image: vegetable-lentil-pie.jpg
-preptime: PT5m
-cooktime: PT2m
-tags: mains
+title: "Vegetable Lentil Pie"
 category: mains
-veggie: ✓
+image: vegetable-lentil-pie.jpg
 ---
 
-* 1 onion finely chopped
-* 2 garlic cloves, minced
-* 2 cups frozen vegetable mix
-* curry powder
-* 1 can brown lentils
-* 1 tsp vegetable stock
-* 2 cups water 
-* 2 pastry sheets
-* egg, beaten
 
+* `1` onion
+* `2 cloves` garlic
 
-
-> Saute onions and garlic in saucepan
+> Saute onion and minced garlic in saucepan
 
 ---
+
+* `some` curry powder
 
 > Add curry powder and cook until fragant
 
 ---
 
-> Add lentils and veg  
+* `1 can` lentils
+* `2 cups` frozen vegetables
+
+> Add lentils and frozen vegetables
 
 ---
 
-> Add stock and water and simmer
+* `1 tsp` vegetable stock
+* `2 cups` water
+
+> Add vegetable stock and water and simmer
 
 ---
 
@@ -44,7 +40,9 @@ veggie: ✓
 
 ---
 
-> Cut pastry into strips 
+* `2 sheets` pastry
+
+> Cut pastry into strips
 
 ---
 
@@ -52,7 +50,9 @@ veggie: ✓
 
 ---
 
-> Paint egg on pastry
+* `1` egg
+
+> Paint beaten egg on pastry
 
 ---
 

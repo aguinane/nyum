@@ -1,32 +1,26 @@
 ---
-title:  "Mushroom Risotto"
-image: mushroom-risotto.jpg
-tags: mains
+title: "Mushroom Risotto"
 category: mains
-veggie: ✓
+image: mushroom-risotto.jpg
 ---
 
-* 1 1/2 cup aborio rice
-* veg stock
-* bit of wine
-* corn
-* 1/2 red onion
-* mushroom
-* rosemary
-* cheese
-* chicken/bacon (optional)
-* butter (optional)
 
+* `1/2` red onion
+* `some` mushroom
 
-> Fry some onion and mushrooms
+> Fry red onion and mushroom
 
 ---
 
-> Make vegetable stock and put to the side
+* `some` veg stock
+
+> Make veg stock and put to the side
 
 ---
 
-> Add rice to big wock and quickly (2min) fry in oil
+* `1 1/2 cup` aborio rice
+
+> Add aborio rice to big wock and quickly (2min) fry in oil
 
 ---
 
@@ -34,11 +28,16 @@ veggie: ✓
 
 ---
 
+* `some` wine
+
 > Add in some wine also
 
 ---
 
-> Add in rosemary, corn and fried stuff about half way through
+* `some` rosemary
+* `some` corn
+
+> Add in rosemary, corn  and fried stuff about half way through
 
 ---
 
@@ -46,7 +45,16 @@ veggie: ✓
 
 ---
 
+* `some` cheese
+
 > Mix in some cheese
+
+---
+
+* `some` butter
+* `some` bacon
+
+> Optionally add butter and chicken or bacon
 
 ---
 
@@ -54,4 +62,5 @@ veggie: ✓
 
 ---
 
-This is pretty easy but takes ages for the rice to soften.
+> This is pretty easy but takes ages for the rice to soften.
+
