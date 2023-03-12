@@ -2,6 +2,7 @@
 {"title":"Apple Cinnamon Loaf","category":"desserts","htmlfile":"apple-cinnamon-loaf.html"}
 ,{"title":"Avocado Muffins","category":"snacks","image":"avocado-muffins.jpg","htmlfile":"avocado-muffins.html"}
 ,{"title":"Baked Cheesecake","category":"desserts","image":"baked-cheesecake.jpg","htmlfile":"baked-cheesecake.html"}
+,{"title":"Bean Salad","category":"salads","image":"bean-salad.jpg","htmlfile":"bean-salad.html"}
 ,{"title":"Caponata Pasta","category":"dinner","image":"caponata-pasta.jpg","htmlfile":"caponata-pasta.html"}
 ,{"title":"Caramel Tart","category":"desserts","image":"caramel-tart.jpg","description":"This recipe comes from Lauren who enjoys a good caramel tart","htmlfile":"caramel-tart.html"}
 ,{"title":"Carrot Cake","category":"desserts","image":"carrot-cake.jpg","htmlfile":"carrot-cake.html"}
@@ -27,6 +28,7 @@
 ,{"title":"Instant Pot Roast Chicken","category":"dinner","htmlfile":"instant-pot-roast-chicken.html"}
 ,{"title":"Iron Balls","category":"snacks","source":"https://www.newidea.com.au/4-ingredient-weet-bix-balls","htmlfile":"iron-balls.html"}
 ,{"title":"Japanese Curry","category":"curries","source":"https://www.justonecookbook.com/how-to-make-curry-roux/","image":"japanese-curry.jpg","htmlfile":"japanese-curry.html"}
+,{"title":"Lamb and Dates with Couscous","category":"mains","htmlfile":"lamb-and-dates-with-couscous.html"}
 ,{"title":"Lamb Pide","category":"mains","image":"lamb-pide.jpg","htmlfile":"lamb-pide.html"}
 ,{"title":"Lemon Curd Cake (Gluten Free)","category":"desserts","image":"lemon-curd-cake-gluten-free.jpg","htmlfile":"lemon-curd-cake-gluten-free.html"}
 ,{"title":"Lemon Gnocchi Traybake","category":"mains","image":"lemon-gnocchi-traybake.jpg","htmlfile":"lemon-gnocchi-traybake.html"}
@@ -46,7 +48,8 @@
 ,{"title":"Party Punch","category":"drinks","image":"party-punch.jpg","description":"The famous Grimes party punch recipe from uni.","htmlfile":"party-punch.html"}
 ,{"title":"Peanut Butter Caramel Slice","category":"snacks","image":"peanut-butter-caramel-slice.jpg","htmlfile":"peanut-butter-caramel-slice.html"}
 ,{"title":"Pikelets","category":"snacks","image":"pikelets.jpg","htmlfile":"pikelets.html","size":"10 pikelets"}
-,{"title":"Pizza Base","category":"components","source":"http://www.cookingforengineers.com/recipe/172/Pan-Pizza","htmlfile":"pizza-base.html","size":"2 bases"}
+,{"title":"Pizza Base","category":"components","source":"http://www.cookingforengineers.com/recipe/172/Pan-Pizza","image":"pizza-base.jpg","htmlfile":"pizza-base.html","size":"2 bases"}
+,{"title":"Pizza Sauce","category":"components","source":"http://www.cookingforengineers.com/recipe/172/Pan-Pizza","image":"pizza-sauce.jpg","htmlfile":"pizza-sauce.html"}
 ,{"title":"Pizza Scrolls","category":"snacks","image":"pizza-scrolls.jpg","htmlfile":"pizza-scrolls.html"}
 ,{"title":"Potato Bake","category":"sides","image":"potato-bake.jpg","htmlfile":"potato-bake.html"}
 ,{"title":"Potato Leek and Spinach Soup","category":"soups","htmlfile":"potato-leek-and-spinach-soup.html"}
