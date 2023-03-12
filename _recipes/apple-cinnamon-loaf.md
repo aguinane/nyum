@@ -1,6 +1,7 @@
 ---
 title: "Apple Cinnamon Loaf"
 category: desserts
+image: apple-cinnamon-loaf.jpg
 ---
 
 
