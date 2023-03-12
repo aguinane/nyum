@@ -13,10 +13,10 @@ image: honey-chicken-curry.jpg
 
 * `1 cup` melted butter
 * `1/2 bottle` wholegrain mustard
-* `~1/2 cup` honey
+* `1/2 cup` honey
 * `4 tbsp` curry powder
 
-> Make sauce from melted butter,  wholegrain mustard honey and  curry powder.
+> Make sauce from melted butter, wholegrain mustard honey and curry powder.
 
 ---
 
@@ -27,7 +27,7 @@ image: honey-chicken-curry.jpg
 * `some` cashews
 * `1 can` lentils
 
-> Add  cashews  and lentils or chickpeas.
+> Add  cashews and lentils or chickpeas.
 
 ---
 

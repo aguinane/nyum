@@ -36,8 +36,9 @@ category: desserts
 
 * `1 1/2 cups` plain flour
 * `1 3/4 tsp` baking powder
+* `1/2 cup` milk
 
-> Combine plain flour and baking powder
+> Combine plain flour and baking powder and beat and slowly add milk
 
 ---
 

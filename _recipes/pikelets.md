@@ -6,12 +6,17 @@ size: 10 pikelets
 ---
 
 
-* `3/4 cups` milk
 * `1` egg
 * `1 tbsp` caster sugar
 * `1 tsp` vanilla essence
 
-> Beat milk, egg, caster sugar and vanilla essence
+> Beat egg, caster sugar and vanilla essence
+
+---
+
+* `3/4 cups` milk
+
+> Mix in milk
 
 ---
 

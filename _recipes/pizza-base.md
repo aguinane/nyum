@@ -1,6 +1,7 @@
 ---
 title: "Pizza Base"
 category: components
+image: pizza-base.jpg
 size: 2 bases
 source: http://www.cookingforengineers.com/recipe/172/Pan-Pizza
 ---

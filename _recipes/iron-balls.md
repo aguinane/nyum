@@ -11,7 +11,7 @@ source: https://www.newidea.com.au/4-ingredient-weet-bix-balls
 
 ---
 
-* `1/2 cup` coconut
+* `1 cup` coconut
 * `1/4 cup` cocoa powder
 * `1 tin (395g)` condensed milk
 
