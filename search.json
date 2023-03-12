@@ -1,5 +1,5 @@
 [
-{"title":"Apple Cinnamon Loaf","category":"desserts","htmlfile":"apple-cinnamon-loaf.html"}
+{"title":"Apple Cinnamon Loaf","category":"desserts","image":"apple-cinnamon-loaf.jpg","htmlfile":"apple-cinnamon-loaf.html"}
 ,{"title":"Avocado Muffins","category":"snacks","image":"avocado-muffins.jpg","htmlfile":"avocado-muffins.html"}
 ,{"title":"Baked Cheesecake","category":"desserts","image":"baked-cheesecake.jpg","htmlfile":"baked-cheesecake.html"}
 ,{"title":"Bean Salad","category":"salads","image":"bean-salad.jpg","htmlfile":"bean-salad.html"}
@@ -46,6 +46,7 @@
 ,{"title":"Overnight Porridge","category":"breakfasts","image":"overnight-porridge.jpg","htmlfile":"overnight-porridge.html"}
 ,{"title":"Pad Thai","category":"mains","image":"pad-thai.jpg","htmlfile":"pad-thai.html"}
 ,{"title":"Party Punch","category":"drinks","image":"party-punch.jpg","description":"The famous Grimes party punch recipe from uni.","htmlfile":"party-punch.html"}
+,{"title":"Passata","category":"components","image":"passata.jpg","htmlfile":"passata.html"}
 ,{"title":"Peanut Butter Caramel Slice","category":"snacks","image":"peanut-butter-caramel-slice.jpg","htmlfile":"peanut-butter-caramel-slice.html"}
 ,{"title":"Pikelets","category":"snacks","image":"pikelets.jpg","htmlfile":"pikelets.html","size":"10 pikelets"}
 ,{"title":"Pizza Base","category":"components","source":"http://www.cookingforengineers.com/recipe/172/Pan-Pizza","image":"pizza-base.jpg","htmlfile":"pizza-base.html","size":"2 bases"}
