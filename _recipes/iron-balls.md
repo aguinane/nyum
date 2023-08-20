@@ -1,6 +1,7 @@
 ---
 title: "Iron Balls"
 category: snacks
+image: iron-balls.jpg
 source: https://www.newidea.com.au/4-ingredient-weet-bix-balls
 ---
 
@@ -21,9 +22,13 @@ source: https://www.newidea.com.au/4-ingredient-weet-bix-balls
 
 * `1/4 cup` coconut
 
-> Scoop out mixture and roll into ball and then roll in coconut - you can optionally add 100s and 1000s also.
+> Put extra coconut in a bowl.
 
 ---
 
-> leave in fridge to set
+> Scoop out mixture and roll into ball and then roll in coconut.
+
+---
+
+> Leave in fridge to set
 

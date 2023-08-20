@@ -17,8 +17,15 @@ description: Not too hard to make to go with Indian
 ---
 
 * `1 cup` Greek yoghurt
+* `2 cloves` garlic
 
-> Add Greek yoghurtand mix well
+> Add Greek yoghurt and minced garlic and mix well
+
+---
+
+* `some` water
+
+> Add water as needed to get consistency right
 
 ---
 
@@ -26,12 +33,7 @@ description: Not too hard to make to go with Indian
 
 ---
 
-> Cook in pan for a couple of mins each side
-
----
-
-* `2 cloves` garlic
 * `2 tbsp` butter
 
-> Add melted garlic butter on top.
+> Cook in pan with butter for a couple of mins each side
 

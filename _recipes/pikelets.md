@@ -20,9 +20,9 @@ size: 10 pikelets
 
 ---
 
-* `1 cup` SR flour
+* `1 cup` self-raising flour
 
-> Add in SR flour
+> Add in self-raising flour
 
 ---
 
