@@ -23,14 +23,14 @@ image: pizza-scrolls.jpg
 
 ---
 
-> Roll into flat sheet >>Make sure you make the roll doughed thin or it tastes too flourly.
+> Roll into flat sheet
 
 ---
 
 * `some` pizza sauce
 * `some` cheese
 
-> Add pizza sauce and cheeseon top
+> Add pizza sauce and cheese on top
 
 ---
 

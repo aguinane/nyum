@@ -6,10 +6,16 @@ image: morrocan-chicken-burgers.jpg
 
 
 * `some` chicken thighs
-* `some` harissa and @morrocan spice
+
+> Cut up chicken thighs.
+
+---
+
+* `some` harissa
+* `some` morrocan spice
 * `some` oil
 
-> Cut up chicken thighs and marinate in harissa and @morrocan spice and oil
+> Marinate in harissa, morrocan spice and oil
 
 ---
 

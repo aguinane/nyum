@@ -9,19 +9,20 @@ image: carrot-cake.jpg
 
 ---
 
-* `1 cup` finely chopped walnuts 
+* `1 cup` walnuts 
 
-> Lightly toast  finely chopped walnuts  in oven for 5 mins
+> Lightly toast finely chopped walnuts  in oven for 5 mins
 
 ---
 
 * `2 cup` plain four
 * `2 tsp` baking powder
-* `1 tsp` salt, @cinnamon
+* `some` salt
+* `1 tsp` cinnamon
 * `1 tsp` nutmeg
 * `1 tsp` ginger
 
-> Place plain four, baking powder, salt, @cinnamon nutmeg ginger in bowl and combine.
+> Place plain four, baking powder, salt, cinnamon, nutmeg, and ginger in bowl and combine.
 
 ---
 
@@ -31,7 +32,7 @@ image: carrot-cake.jpg
 * `2 tsp` vanilla extract
 * `4` eggs
 
-> Whisk together in a separate bowl cups olive oil caster sugar cup brown sugar vanilla extract eggs.
+> Whisk together in a separate bowl cups olive oil, caster sugar, cup brown sugar, vanilla extract, and eggs.
 
 ---
 
@@ -41,7 +42,7 @@ image: carrot-cake.jpg
 
 ---
 
-* `3` finely grated carrots
+* `3` carrots
 
 > Fold in finely grated carrots and walnuts.
 

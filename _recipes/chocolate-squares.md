@@ -17,9 +17,10 @@ description: Guinane family recipe, slightly changed each generation.
 
 ---
 
-* `some` walnuts or @choc chips
+* `some` walnuts
+* `some` choc chips
 
-> Sometimes I add walnuts or @choc chips if we have them
+> Sometimes I add walnuts or choc chips if we have them
 
 ---
 

@@ -5,9 +5,11 @@ image: tiger-toast.jpg
 ---
 
 
-* `some` butter and @Vegemite on @white bread
+* `some` butter
+* `some` Vegemite
+* `some` white bread
 
-> Spread butter and @Vegemite on @white bread.
+> Spread butter and Vegemite on white bread.
 
 ---
 

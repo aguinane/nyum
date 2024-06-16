@@ -42,7 +42,8 @@ image: warm-pasta-salad.jpg
 
 ---
 
-* `1/2 cup` cheese and fresh @basil leaves
+* `some` cheese
+* `1/2 cup` basil leaves
 
-> Serve with cheese and fresh @basil leaves
+> Serve with cheese and fresh basil leaves
 

@@ -6,27 +6,27 @@ description: Not as nice as the baked one, but much faster to make.
 ---
 
 
-* `3 tbsp` Plain White Flour
+* `3 tbsp` Plain Flour
 * `2 tbsp` Sugar
 * `1 1/2 tbsp` Cocoa Powder
 * `1/2 tsp` Baking Powder
 
-> Mix Plain White Flour Sugar Cocoa Powder Baking Powder together in a large mug
+> Mix Plain Flour, Sugar, Cocoa Powder, Baking Powder together in a large mug
 
 ---
 
 * `3 tbsp` Milk
-* `some` 2 tbsp Oil (or melted butter)
-* `some` 1/4 tsp Vanilla Essence
+* `2 tbsp` Oil
+* `1/4 tsp` Vanilla Essence
 
-> Add Milk 2 tbsp Oil (or melted butter) 1/4 tsp Vanilla Essence  and mix in
+> Add Milk, Oil (or melted butter), Vanilla Essence and mix
 
 ---
 
 * `1 tbsp` Brown Sugar
 * `1 tsp` Cocoa Powder
 
-> Sprinkle Brown Sugar and Cocoa Powder  over the top
+> Sprinkle Brown Sugar and Cocoa Powder over the top
 
 ---
 

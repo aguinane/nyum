@@ -27,15 +27,17 @@ image: lemon-gnocchi-traybake.jpg
 ---
 
 * `some` olive oil
-* `some` salt and @pepper and @basil or parsley leaves
+* `some` salt
+* `some` pepper
+* `some` basil leaves
 
-> Add the remaining half of lemon juice, to olive oil, salt and @pepper and @basil or parsley leaves to jug
+> Add the remaining half of lemon juice, to olive oil, salt and pepper and basil leaves to jug
 
 ---
 
-* `some` 1 packet fresh gnocchi
+* `1 packet` gnocchi
 
-> Pour mixture over 1 packet fresh gnocchi and toss
+> Pour mixture over gnocchi and toss
 
 ---
 

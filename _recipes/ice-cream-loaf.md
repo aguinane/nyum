@@ -4,16 +4,16 @@ category: desserts
 ---
 
 
-* `1 x 395g can` condensed milk
+* `395g can` condensed milk
 * `600ml` cream
 
 > Beat condensed milk cream until thick
 
 ---
 
-* `290g` melted dark chocolate chips
+* `290g` dark chocolate chips
 
-> Gradually add melted dark chocolate chips until smooth
+> Melt and gradually add dark chocolate chips until smooth
 
 ---
 

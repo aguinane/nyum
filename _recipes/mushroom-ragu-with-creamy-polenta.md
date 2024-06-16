@@ -24,9 +24,10 @@ image: mushroom-ragu-with-creamy-polenta.jpg
 ---
 
 * `3 cloves` garlic
-* `2 tbs` oregano and @passata
+* `some` oregano
+* `2 tbs` passata
 
-> Add  garlic, oregano and @passata  and cook until fragnant
+> Add  garlic, oregano and passata  and cook until fragnant
 
 ---
 

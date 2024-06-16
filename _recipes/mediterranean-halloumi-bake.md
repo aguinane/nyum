@@ -18,7 +18,7 @@ image: mediterranean-halloumi-bake.jpg
 
 * `2 cloves` garlic
 
-> Add garlic  and cook for another min
+> Add garlic and cook for another min
 
 ---
 
@@ -27,11 +27,12 @@ image: mediterranean-halloumi-bake.jpg
 * `3 tbspns` tomato puree
 * `1 tbspn` tumeric
 * `1 tbspn` cumin
-* `1 tbspn` smoked paprika
+* `1 tbsp` smoked paprika
 * `1 small` chilli
 * `some` salt
+* `some` pepper
 
-> Add diced zucchini, quartered cherry tomatoes, tomato puree and tumeric, cumin, smoked paprika, chilli, salt and @pepper.
+> Add diced zucchini, quartered cherry tomatoes, tomato puree and tumeric, cumin, smoked paprika, chilli, salt and pepper.
 
 ---
 
