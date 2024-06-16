@@ -12,6 +12,7 @@
 ,{"title":"Chicken &amp; Veg Soup","category":"soups","image":"chicken-veg-soup.jpg","htmlfile":"chicken-veg-soup.html"}
 ,{"title":"Chickpea Burgers","category":"mains","image":"chickpea-burgers.jpg","description":"Awesome veggie patties to add to burgers.","htmlfile":"chickpea-burgers.html"}
 ,{"title":"Choc Banana Muffins","category":"snacks","htmlfile":"choc-banana-muffins.html"}
+,{"title":"Choc Chip Biscuits","category":"snacks","htmlfile":"choc-chip-biscuits.html"}
 ,{"title":"Choc Self Saucing Pudding (Mug)","category":"desserts","image":"choc-self-saucing-pudding-mug.jpg","description":"Not as nice as the baked one, but much faster to make.","htmlfile":"choc-self-saucing-pudding-mug.html"}
 ,{"title":"Choc Self Saucing Pudding","category":"desserts","image":"choc-self-saucing-pudding.jpg","htmlfile":"choc-self-saucing-pudding.html"}
 ,{"title":"Choc Zucchini Slice","category":"snacks","htmlfile":"choc-zucchini-slice.html"}
@@ -37,6 +38,7 @@
 ,{"title":"Japanese Curry","category":"curries","source":"https://www.justonecookbook.com/how-to-make-curry-roux/","image":"japanese-curry.jpg","htmlfile":"japanese-curry.html"}
 ,{"title":"Lamb and Dates with Couscous","category":"mains","htmlfile":"lamb-and-dates-with-couscous.html"}
 ,{"title":"Lamb Pide","category":"mains","image":"lamb-pide.jpg","htmlfile":"lamb-pide.html"}
+,{"title":"Lemon Curd Cake GF","category":"desserts","image":"lemon-curd-cake-gf.jpg","htmlfile":"lemon-curd-cake-gf.html"}
 ,{"title":"Lemon Curd Cake (Gluten Free)","category":"desserts","image":"lemon-curd-cake-gluten-free.jpg","htmlfile":"lemon-curd-cake-gluten-free.html"}
 ,{"title":"Lemon Gnocchi Traybake","category":"mains","image":"lemon-gnocchi-traybake.jpg","htmlfile":"lemon-gnocchi-traybake.html"}
 ,{"title":"Lentil Bolognese","category":"dinner","htmlfile":"lentil-bolognese.html"}
@@ -57,7 +59,7 @@
 ,{"title":"Passata","category":"components","image":"passata.jpg","htmlfile":"passata.html"}
 ,{"title":"Peanut Butter Caramel Slice","category":"snacks","image":"peanut-butter-caramel-slice.jpg","htmlfile":"peanut-butter-caramel-slice.html"}
 ,{"title":"Pikelets","category":"snacks","image":"pikelets.jpg","htmlfile":"pikelets.html","size":"10 pikelets"}
-,{"title":"Pizza Base","category":"components","source":"http://www.cookingforengineers.com/recipe/172/Pan-Pizza","image":"pizza-base.jpg","htmlfile":"pizza-base.html","size":"2 bases"}
+,{"title":"Pizza Base","category":"components","source":"http://www.cookingforengineers.com/recipe/172/Pan-Pizza","image":"pizza-base.jpg","htmlfile":"pizza-base.html","size":"3 bases"}
 ,{"title":"Pizza Sauce","category":"components","source":"http://www.cookingforengineers.com/recipe/172/Pan-Pizza","image":"pizza-sauce.jpg","htmlfile":"pizza-sauce.html"}
 ,{"title":"Pizza Scrolls","category":"snacks","image":"pizza-scrolls.jpg","htmlfile":"pizza-scrolls.html"}
 ,{"title":"Potato Bake","category":"sides","image":"potato-bake.jpg","htmlfile":"potato-bake.html"}
