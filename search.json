@@ -4,6 +4,7 @@
 ,{"title":"Avocado Muffins","category":"snacks","image":"avocado-muffins.jpg","htmlfile":"avocado-muffins.html"}
 ,{"title":"Baked Cheesecake","category":"desserts","image":"baked-cheesecake.jpg","htmlfile":"baked-cheesecake.html"}
 ,{"title":"Bean Salad","category":"salads","image":"bean-salad.jpg","htmlfile":"bean-salad.html"}
+,{"title":"Bread","category":"components","source":"https://tastesbetterfromscratch.com/bread-recipe/","image":"bread.jpg","htmlfile":"bread.html","size":"2 loaves"}
 ,{"title":"Butter Chicken","category":"curries","source":"https://www.recipetineats.com/butter-chicken/","htmlfile":"butter-chicken.html"}
 ,{"title":"Caponata Pasta","category":"dinner","image":"caponata-pasta.jpg","htmlfile":"caponata-pasta.html"}
 ,{"title":"Caramel Tart","category":"desserts","image":"caramel-tart.jpg","description":"This recipe comes from Lauren who enjoys a good caramel tart","htmlfile":"caramel-tart.html"}
