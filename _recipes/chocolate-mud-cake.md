@@ -8,18 +8,22 @@ category: desserts
 
 ---
 
-* `1 cup` dark chocolate
 * `1 cup` butter
+* `1 cup` dark chocolate
 * `1 cup` milk
 * `2 cup` sugar
 
-> Add dark chocolate, butter, milk and sugar to a saucepan, and heat over medium heat until melted.
+> Add butter, dark chocolate, milk and sugar to a saucepan, and heat over medium heat until melted.
+
+---
+
+> Allow to cool for 10 minutes
 
 ---
 
 * `2` eggs
 
-> Allow to cool for 10 minutes, then add eggs and whisk to combine.
+> Add eggs and whisk to combine.
 
 ---
 
@@ -31,7 +35,7 @@ category: desserts
 
 ---
 
-> Pour into greased baking tin and bake until a skewer in the middle comes out clean.
+> Pour into greased baking tin and bake for about an hour, until a skewer in the middle is not too wet.
 
 ---
 
