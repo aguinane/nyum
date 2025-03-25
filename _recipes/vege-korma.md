@@ -2,6 +2,7 @@
 title: "Vege Korma"
 category: curries
 image: vege-korma.jpg
+veggie: ✓
 ---
 
 

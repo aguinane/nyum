@@ -4,6 +4,7 @@ category: components
 image: pizza-base.jpg
 size: 3 bases
 source: http://www.cookingforengineers.com/recipe/172/Pan-Pizza
+veggie: ✓
 ---
 
 
@@ -24,7 +25,7 @@ source: http://www.cookingforengineers.com/recipe/172/Pan-Pizza
 * `1/2 cup` warm milk
 * `1/2 cup` warm water
 
-> Add warm milk (or oat milk) and warm water until consistency is right.
+> Add warm milk (or oat milk or water) and warm water until consistency is right.
 
 ---
 

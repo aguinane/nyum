@@ -3,6 +3,7 @@ title: "Naan Bread"
 category: sides
 image: naan-bread.jpg
 description: Not too hard to make to go with Indian
+veggie: ✓
 ---
 
 

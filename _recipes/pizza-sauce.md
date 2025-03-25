@@ -3,6 +3,8 @@ title: "Pizza Sauce"
 category: components
 image: pizza-sauce.jpg
 source: http://www.cookingforengineers.com/recipe/172/Pan-Pizza
+veggie: ✓
+vegan: ✓
 ---
 
 

@@ -2,6 +2,7 @@
 title: "Caponata Pasta"
 category: dinner
 image: caponata-pasta.jpg
+veggie: ✓
 ---
 
 

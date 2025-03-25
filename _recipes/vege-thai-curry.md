@@ -2,6 +2,7 @@
 title: "Vege Thai Curry"
 category: curries
 image: vege-thai-curry.jpg
+veggie: ✓
 ---
 
 
@@ -14,7 +15,7 @@ image: vege-thai-curry.jpg
 
 * `3-4tbsp` red thai curry paste
 
-> Add red thai curry paste  and stir
+> Add red thai curry paste and stir
 
 ---
 
@@ -33,6 +34,8 @@ image: vege-thai-curry.jpg
 > Simmer for 10 mins or until less watery
 
 ---
+
+* `some` rice
 
 > Serve with rice
 

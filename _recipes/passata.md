@@ -2,6 +2,8 @@
 title: "Passata"
 category: components
 image: passata.jpg
+veggie: ✓
+vegan: ✓
 ---
 
 

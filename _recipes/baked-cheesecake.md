@@ -2,6 +2,7 @@
 title: "Baked Cheesecake"
 category: desserts
 image: baked-cheesecake.jpg
+veggie: ✓
 ---
 
 

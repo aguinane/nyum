@@ -2,6 +2,7 @@
 title: "Instant Pot Basic Risotto"
 category: dinner
 image: instant-pot-basic-risotto.jpg
+veggie: ✓
 ---
 
 

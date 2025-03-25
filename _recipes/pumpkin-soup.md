@@ -3,6 +3,7 @@ title: "Pumpkin Soup"
 category: soups
 image: pumpkin-soup.jpg
 description: Tasty entree and great for babies.
+veggie: ✓
 ---
 
 

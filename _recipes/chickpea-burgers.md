@@ -3,6 +3,8 @@ title: "Chickpea Burgers"
 category: mains
 image: chickpea-burgers.jpg
 description: Awesome veggie patties to add to burgers.
+veggie: ✓
+vegan: ✓
 ---
 
 

@@ -2,6 +2,8 @@
 title: "Toasted Cashew Nut & Cauliflower Curry"
 category: curries
 image: toasted-cashew-nut-cauliflower-curry.jpg
+veggie: ✓
+vegan: ✓
 ---
 
 

@@ -2,6 +2,7 @@
 title: "Flatbread"
 category: components
 source: https://www.recipetineats.com/easy-soft-flatbread-yeast/
+veggie: ✓
 ---
 
 

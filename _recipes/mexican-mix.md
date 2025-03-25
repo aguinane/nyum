@@ -3,6 +3,8 @@ title: "Mexican Mix"
 category: components
 image: mexican-mix.jpg
 description: This is our go to mexican mix. Make into burritos or nachos.
+veggie: ✓
+vegan: ✓
 ---
 
 

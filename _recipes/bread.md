@@ -4,6 +4,8 @@ category: components
 image: bread.jpg
 size: 2 loaves
 source: https://tastesbetterfromscratch.com/bread-recipe/
+veggie: ✓
+vegan: ✓
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: "Vege Tikka Masala"
 category: curries
+veggie: ✓
+vegan: ✓
 ---
 
 

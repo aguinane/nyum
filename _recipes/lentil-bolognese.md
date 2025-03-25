@@ -1,6 +1,7 @@
 ---
 title: "Lentil Bolognese"
 category: dinner
+veggie: ✓
 ---
 
 

@@ -2,6 +2,7 @@
 title: "Teriyaki Eggplant Stir-Fry"
 category: dinner
 image: teriyaki-eggplant-stir-fry.jpg
+veggie: ✓
 ---
 
 

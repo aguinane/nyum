@@ -2,6 +2,7 @@
 title: "Lemon Curd Cake GF"
 category: desserts
 image: lemon-curd-cake-gf.jpg
+gluten-free: ✓
 ---
 
 

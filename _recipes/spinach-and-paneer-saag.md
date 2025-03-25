@@ -2,6 +2,8 @@
 title: "Spinach and Paneer Saag"
 category: curries
 image: spinach-and-paneer-saag.jpg
+veggie: ✓
+vegan: ✓
 ---
 
 
