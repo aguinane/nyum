@@ -1,18 +1,18 @@
 [
 {"title":"ANZAC Biscuits","category":"snacks","source":"https://www.taste.com.au/recipes/traditional-anzac-biscuits-2/5229a179-7755-46ab-925a-fd55081833d8","image":"anzac-biscuits.jpg","htmlfile":"anzac-biscuits.html"}
-,{"title":"Apple Cinnamon Loaf","category":"desserts","image":"apple-cinnamon-loaf.jpg","htmlfile":"apple-cinnamon-loaf.html"}
+,{"title":"Apple Cinnamon Loaf","category":"desserts","image":"apple-cinnamon-loaf.jpg","veggie":"✓","htmlfile":"apple-cinnamon-loaf.html"}
 ,{"title":"Avocado Muffins","category":"snacks","image":"avocado-muffins.jpg","htmlfile":"avocado-muffins.html"}
-,{"title":"Baked Cheesecake","category":"desserts","image":"baked-cheesecake.jpg","htmlfile":"baked-cheesecake.html"}
+,{"title":"Baked Cheesecake","category":"desserts","image":"baked-cheesecake.jpg","veggie":"✓","htmlfile":"baked-cheesecake.html"}
 ,{"title":"Bean Salad","category":"salads","image":"bean-salad.jpg","htmlfile":"bean-salad.html"}
-,{"title":"Bread","category":"components","source":"https://tastesbetterfromscratch.com/bread-recipe/","image":"bread.jpg","htmlfile":"bread.html","size":"2 loaves"}
+,{"title":"Bread","category":"components","source":"https://tastesbetterfromscratch.com/bread-recipe/","image":"bread.jpg","veggie":"✓","htmlfile":"bread.html","vegan":"✓","size":"2 loaves"}
 ,{"title":"Butter Chicken","category":"curries","source":"https://www.recipetineats.com/butter-chicken/","htmlfile":"butter-chicken.html"}
-,{"title":"Caponata Pasta","category":"dinner","image":"caponata-pasta.jpg","htmlfile":"caponata-pasta.html"}
+,{"title":"Caponata Pasta","category":"dinner","image":"caponata-pasta.jpg","veggie":"✓","htmlfile":"caponata-pasta.html"}
 ,{"title":"Caramel Tart","category":"desserts","image":"caramel-tart.jpg","description":"This recipe comes from Lauren who enjoys a good caramel tart","htmlfile":"caramel-tart.html"}
 ,{"title":"Carrot Cake","category":"desserts","image":"carrot-cake.jpg","htmlfile":"carrot-cake.html"}
 ,{"title":"Cauliflower Chickpea Salad","category":"salads","image":"cauliflower-chickpea-salad.jpg","htmlfile":"cauliflower-chickpea-salad.html"}
 ,{"title":"Chicken and Lentil Tray Bake","category":"mains","source":"https://www.abc.net.au/news/2024-11-02/easy-chicken-and-lentil-tray-bake/104313206","htmlfile":"chicken-and-lentil-tray-bake.html"}
 ,{"title":"Chicken &amp; Veg Soup","category":"soups","image":"chicken-veg-soup.jpg","htmlfile":"chicken-veg-soup.html"}
-,{"title":"Chickpea Burgers","category":"mains","image":"chickpea-burgers.jpg","description":"Awesome veggie patties to add to burgers.","htmlfile":"chickpea-burgers.html"}
+,{"title":"Chickpea Burgers","category":"mains","image":"chickpea-burgers.jpg","veggie":"✓","description":"Awesome veggie patties to add to burgers.","htmlfile":"chickpea-burgers.html","vegan":"✓"}
 ,{"title":"Choc Banana Muffins","category":"snacks","htmlfile":"choc-banana-muffins.html"}
 ,{"title":"Choc Chip Biscuits","category":"snacks","htmlfile":"choc-chip-biscuits.html"}
 ,{"title":"Choc Self Saucing Pudding (Mug)","category":"desserts","image":"choc-self-saucing-pudding-mug.jpg","description":"Not as nice as the baked one, but much faster to make.","htmlfile":"choc-self-saucing-pudding-mug.html"}
@@ -26,7 +26,7 @@
 ,{"title":"Crustless Quiche","category":"snacks","htmlfile":"crustless-quiche.html"}
 ,{"title":"Date and Nut Balls","category":"snacks","htmlfile":"date-and-nut-balls.html"}
 ,{"title":"Finger Buns","category":"snacks","source":"https://www.womensweeklyfood.com.au/recipe/baking/finger-buns-15332/","htmlfile":"finger-buns.html","size":"16 buns"}
-,{"title":"Flatbread","category":"components","source":"https://www.recipetineats.com/easy-soft-flatbread-yeast/","htmlfile":"flatbread.html"}
+,{"title":"Flatbread","category":"components","source":"https://www.recipetineats.com/easy-soft-flatbread-yeast/","veggie":"✓","htmlfile":"flatbread.html"}
 ,{"title":"Fruit Scones","category":"snacks","image":"fruit-scones.jpg","htmlfile":"fruit-scones.html"}
 ,{"title":"Gingerbread Men","category":"snacks","htmlfile":"gingerbread-men.html","size":"12 gingerbread men"}
 ,{"title":"glühwein (Mulled Wine)","category":"drinks","image":"gluhwein-mulled-wine.jpg","description":"Awesome in winter if you are having people over. The fruit makes it sweet so don’t buy expensive wine.","htmlfile":"gluhwein-mulled-wine.html"}
@@ -36,60 +36,60 @@
 ,{"title":"Hot Crossless Buns","category":"snacks","source":"https://www.cookingforengineers.com/recipe/215/Hot-Cross-Buns-Delia-Smiths","image":"hot-crossless-buns.jpg","htmlfile":"hot-crossless-buns.html","size":"12 buns"}
 ,{"title":"Ice Cream Loaf","category":"desserts","htmlfile":"ice-cream-loaf.html"}
 ,{"title":"Indian Shepherd’s Pie","category":"mains","image":"indian-shepherd-s-pie.jpg","htmlfile":"indian-shepherd-s-pie.html"}
-,{"title":"Instant Pot Basic Risotto","category":"dinner","image":"instant-pot-basic-risotto.jpg","htmlfile":"instant-pot-basic-risotto.html"}
+,{"title":"Instant Pot Basic Risotto","category":"dinner","image":"instant-pot-basic-risotto.jpg","veggie":"✓","htmlfile":"instant-pot-basic-risotto.html"}
 ,{"title":"Instant Pot Roast Chicken","category":"dinner","htmlfile":"instant-pot-roast-chicken.html"}
 ,{"title":"Iron Balls","category":"snacks","source":"https://www.newidea.com.au/4-ingredient-weet-bix-balls","image":"iron-balls.jpg","htmlfile":"iron-balls.html"}
 ,{"title":"Japanese Curry","category":"curries","source":"https://www.justonecookbook.com/how-to-make-curry-roux/","image":"japanese-curry.jpg","htmlfile":"japanese-curry.html"}
 ,{"title":"Lamb and Dates with Couscous","category":"mains","htmlfile":"lamb-and-dates-with-couscous.html"}
 ,{"title":"Lamb Pide","category":"mains","image":"lamb-pide.jpg","htmlfile":"lamb-pide.html"}
-,{"title":"Lemon Curd Cake GF","category":"desserts","image":"lemon-curd-cake-gf.jpg","htmlfile":"lemon-curd-cake-gf.html"}
+,{"title":"Lemon Curd Cake GF","category":"desserts","image":"lemon-curd-cake-gf.jpg","htmlfile":"lemon-curd-cake-gf.html","gluten-free":"✓"}
 ,{"title":"Lemon Gnocchi Traybake","category":"mains","image":"lemon-gnocchi-traybake.jpg","htmlfile":"lemon-gnocchi-traybake.html"}
-,{"title":"Lentil Bolognese","category":"dinner","htmlfile":"lentil-bolognese.html"}
+,{"title":"Lentil Bolognese","category":"dinner","veggie":"✓","htmlfile":"lentil-bolognese.html"}
 ,{"title":"Mac and Cheese","category":"sides","htmlfile":"mac-and-cheese.html"}
 ,{"title":"Mediterranean Chicken in Creamy Tomato Sauce","category":"mains","image":"mediterranean-chicken-in-creamy-tomato-sauce.jpg","htmlfile":"mediterranean-chicken-in-creamy-tomato-sauce.html"}
 ,{"title":"Mediterranean Halloumi Bake","category":"mains","image":"mediterranean-halloumi-bake.jpg","htmlfile":"mediterranean-halloumi-bake.html"}
-,{"title":"Mexican Mix","category":"components","image":"mexican-mix.jpg","description":"This is our go to mexican mix. Make into burritos or nachos.","htmlfile":"mexican-mix.html"}
+,{"title":"Mexican Mix","category":"components","image":"mexican-mix.jpg","veggie":"✓","description":"This is our go to mexican mix. Make into burritos or nachos.","htmlfile":"mexican-mix.html","vegan":"✓"}
 ,{"title":"Moroccan Style Lentil &amp; Chickpea Casserole","category":"mains","image":"moroccan-style-lentil-chickpea-casserole.jpg","htmlfile":"moroccan-style-lentil-chickpea-casserole.html"}
 ,{"title":"Morrocan Chicken Burgers","category":"mains","image":"morrocan-chicken-burgers.jpg","htmlfile":"morrocan-chicken-burgers.html"}
 ,{"title":"Mushroom Ragu with Creamy Polenta","category":"mains","image":"mushroom-ragu-with-creamy-polenta.jpg","htmlfile":"mushroom-ragu-with-creamy-polenta.html"}
 ,{"title":"Mushroom Risotto","category":"mains","image":"mushroom-risotto.jpg","htmlfile":"mushroom-risotto.html"}
-,{"title":"Naan Bread","category":"sides","image":"naan-bread.jpg","description":"Not too hard to make to go with Indian","htmlfile":"naan-bread.html"}
+,{"title":"Naan Bread","category":"sides","image":"naan-bread.jpg","veggie":"✓","description":"Not too hard to make to go with Indian","htmlfile":"naan-bread.html"}
 ,{"title":"Oat and Seed Biscuits","category":"snacks","image":"oat-and-seed-biscuits.jpg","htmlfile":"oat-and-seed-biscuits.html"}
 ,{"title":"Oat &amp; Sultana Biscuits","category":"snacks","image":"oat-sultana-biscuits.jpg","htmlfile":"oat-sultana-biscuits.html"}
 ,{"title":"Overnight Porridge","category":"breakfasts","image":"overnight-porridge.jpg","htmlfile":"overnight-porridge.html"}
 ,{"title":"Pad Thai","category":"mains","image":"pad-thai.jpg","htmlfile":"pad-thai.html"}
 ,{"title":"Party Punch","category":"drinks","image":"party-punch.jpg","description":"The famous Grimes party punch recipe from uni.","htmlfile":"party-punch.html"}
-,{"title":"Passata","category":"components","image":"passata.jpg","htmlfile":"passata.html"}
+,{"title":"Passata","category":"components","image":"passata.jpg","veggie":"✓","htmlfile":"passata.html","vegan":"✓"}
 ,{"title":"Pavlova","category":"desserts","source":"https://tastesbetterfromscratch.com/bread-recipe/","image":"pavlova.jpg","htmlfile":"pavlova.html"}
 ,{"title":"Peanut Butter Caramel Slice","category":"snacks","image":"peanut-butter-caramel-slice.jpg","htmlfile":"peanut-butter-caramel-slice.html"}
 ,{"title":"Pikelets","category":"snacks","image":"pikelets.jpg","htmlfile":"pikelets.html","size":"10 pikelets"}
-,{"title":"Pizza Base","category":"components","source":"http://www.cookingforengineers.com/recipe/172/Pan-Pizza","image":"pizza-base.jpg","htmlfile":"pizza-base.html","size":"3 bases"}
-,{"title":"Pizza Sauce","category":"components","source":"http://www.cookingforengineers.com/recipe/172/Pan-Pizza","image":"pizza-sauce.jpg","htmlfile":"pizza-sauce.html"}
+,{"title":"Pizza Base","category":"components","source":"http://www.cookingforengineers.com/recipe/172/Pan-Pizza","image":"pizza-base.jpg","veggie":"✓","htmlfile":"pizza-base.html","size":"3 bases"}
+,{"title":"Pizza Sauce","category":"components","source":"http://www.cookingforengineers.com/recipe/172/Pan-Pizza","image":"pizza-sauce.jpg","veggie":"✓","htmlfile":"pizza-sauce.html","vegan":"✓"}
 ,{"title":"Pizza Scrolls","category":"snacks","image":"pizza-scrolls.jpg","htmlfile":"pizza-scrolls.html"}
 ,{"title":"Potato Bake","category":"sides","image":"potato-bake.jpg","htmlfile":"potato-bake.html"}
 ,{"title":"Potato Leek and Spinach Soup","category":"soups","htmlfile":"potato-leek-and-spinach-soup.html"}
 ,{"title":"Pumpkin Baked Beans","category":"sides","htmlfile":"pumpkin-baked-beans.html"}
 ,{"title":"Pumpkin Gingerbread","category":"snacks","image":"pumpkin-gingerbread.jpg","htmlfile":"pumpkin-gingerbread.html"}
-,{"title":"Pumpkin Soup","category":"soups","image":"pumpkin-soup.jpg","description":"Tasty entree and great for babies.","htmlfile":"pumpkin-soup.html"}
+,{"title":"Pumpkin Soup","category":"soups","image":"pumpkin-soup.jpg","veggie":"✓","description":"Tasty entree and great for babies.","htmlfile":"pumpkin-soup.html"}
 ,{"title":"Raspberry Jam drops","category":"snacks","image":"raspberry-jam-drops.jpg","htmlfile":"raspberry-jam-drops.html"}
 ,{"title":"Roast Lamb with Olive Tapenade","category":"mains","image":"roast-lamb-with-olive-tapenade.jpg","htmlfile":"roast-lamb-with-olive-tapenade.html"}
 ,{"title":"Sausage Rolls","category":"snacks","image":"sausage-rolls.jpg","htmlfile":"sausage-rolls.html"}
 ,{"title":"Slow Cooked Moroccan Lamb Casserole","category":"mains","htmlfile":"slow-cooked-moroccan-lamb-casserole.html"}
 ,{"title":"Spinach and Lentil Stew","category":"mains","htmlfile":"spinach-and-lentil-stew.html"}
-,{"title":"Spinach and Paneer Saag","category":"curries","image":"spinach-and-paneer-saag.jpg","htmlfile":"spinach-and-paneer-saag.html"}
+,{"title":"Spinach and Paneer Saag","category":"curries","image":"spinach-and-paneer-saag.jpg","veggie":"✓","htmlfile":"spinach-and-paneer-saag.html","vegan":"✓"}
 ,{"title":"Sticky Date Pudding","category":"desserts","image":"sticky-date-pudding.jpg","htmlfile":"sticky-date-pudding.html"}
 ,{"title":"Sushi Rolls","category":"mains","htmlfile":"sushi-rolls.html"}
 ,{"title":"Sweet Potato Mushroom &amp; Two Bean Cottage Pie","category":"mains","htmlfile":"sweet-potato-mushroom-two-bean-cottage-pie.html"}
 ,{"title":"Sweet Potato Salad","category":"salads","image":"sweet-potato-salad.jpg","htmlfile":"sweet-potato-salad.html"}
-,{"title":"Teriyaki Eggplant Stir-Fry","category":"dinner","image":"teriyaki-eggplant-stir-fry.jpg","htmlfile":"teriyaki-eggplant-stir-fry.html"}
+,{"title":"Teriyaki Eggplant Stir-Fry","category":"dinner","image":"teriyaki-eggplant-stir-fry.jpg","veggie":"✓","htmlfile":"teriyaki-eggplant-stir-fry.html"}
 ,{"title":"The Best Brownies","category":"snacks","image":"the-best-brownies.jpg","description":"These are extremely unhealthy but super tasty","htmlfile":"the-best-brownies.html"}
 ,{"title":"Tiger Toast","category":"snacks","image":"tiger-toast.jpg","htmlfile":"tiger-toast.html"}
-,{"title":"Toasted Cashew Nut &amp; Cauliflower Curry","category":"curries","image":"toasted-cashew-nut-cauliflower-curry.jpg","htmlfile":"toasted-cashew-nut-cauliflower-curry.html"}
+,{"title":"Toasted Cashew Nut &amp; Cauliflower Curry","category":"curries","image":"toasted-cashew-nut-cauliflower-curry.jpg","veggie":"✓","htmlfile":"toasted-cashew-nut-cauliflower-curry.html","vegan":"✓"}
 ,{"title":"Trifle","category":"desserts","image":"trifle.jpg","description":"It’s not Christmas if you don’t make a trifle.","htmlfile":"trifle.html"}
 ,{"title":"Vanilla Slice","category":"desserts","image":"vanilla-slice.jpg","description":"Basically just custard with pastry and icing on top","htmlfile":"vanilla-slice.html"}
-,{"title":"Vege Korma","category":"curries","image":"vege-korma.jpg","htmlfile":"vege-korma.html"}
-,{"title":"Vege Thai Curry","category":"curries","image":"vege-thai-curry.jpg","htmlfile":"vege-thai-curry.html"}
-,{"title":"Vege Tikka Masala","category":"curries","htmlfile":"vege-tikka-masala.html"}
+,{"title":"Vege Korma","category":"curries","image":"vege-korma.jpg","veggie":"✓","htmlfile":"vege-korma.html"}
+,{"title":"Vege Thai Curry","category":"curries","image":"vege-thai-curry.jpg","veggie":"✓","htmlfile":"vege-thai-curry.html"}
+,{"title":"Vege Tikka Masala","category":"curries","veggie":"✓","htmlfile":"vege-tikka-masala.html","vegan":"✓"}
 ,{"title":"Vegetable Lentil Pie","category":"mains","image":"vegetable-lentil-pie.jpg","htmlfile":"vegetable-lentil-pie.html"}
 ,{"title":"Warm Pasta Salad","category":"salads","image":"warm-pasta-salad.jpg","htmlfile":"warm-pasta-salad.html"}
 ,{"title":"White Choc Cheesecake","category":"desserts","image":"white-choc-cheesecake.jpg","description":"Wheatland Christmas favourite","htmlfile":"white-choc-cheesecake.html"}
