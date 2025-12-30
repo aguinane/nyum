@@ -29,11 +29,11 @@ veggie: ✓
 
 ---
 
-> Knead for about 5 mins and then shape into ball.
+> Turn the oven off.
 
 ---
 
-> Turn the oven off. Cover dough and let stand in warmed oven for 30 mins.
+> Knead for about 5 mins.
 
 ---
 
@@ -42,4 +42,12 @@ veggie: ✓
 ---
 
 > Spray bottom of bases with oil and prick top with fork
+
+---
+
+> Leave bases to rise for about 30 mins.
+
+---
+
+> Put toppings on pizza and then cook!
 

@@ -46,7 +46,7 @@ description: These are extremely unhealthy but super tasty
 
 ---
 
-> Pour into pan and bake for 35-40mins
+> Pour into pan and bake for 20-30mins
 
 ---
 

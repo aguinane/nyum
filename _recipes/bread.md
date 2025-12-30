@@ -38,15 +38,11 @@ vegan: ✓
 
 ---
 
+> Turn the oven off (you want it warm to rise the dough in later)
+
+---
+
 > Knead the dough for 5 minutes.
-
----
-
-> Spray the bowl with oil and then add the dough back into bowl, spraying oil on top as well and coverting with a tea towel.
-
----
-
-> Turn the oven off and then let the dough rise for about 30 mins in the warm oven.
 
 ---
 
@@ -54,11 +50,11 @@ vegan: ✓
 
 ---
 
-> Roll the dough (removing air bubbles) into two long logs.
+> Roll the dough into two long logs.
 
 ---
 
-> Add to the bread pans and then leave to rise again, spraying the top with oil and putting tea towel back on top. Let rise for about 45 mins until at the top of the pan.
+> Add to the bread pans and then leave to rise in oven, spraying the top with oil and putting tea towel back on top. Let rise for about 45 mins until at the top of the pan.
 
 ---
 
