@@ -5,6 +5,7 @@
 ,{"title":"Baked Cheesecake","category":"desserts","image":"baked-cheesecake.jpg","veggie":"✓","htmlfile":"baked-cheesecake.html"}
 ,{"title":"Bean Salad","category":"salads","image":"bean-salad.jpg","htmlfile":"bean-salad.html"}
 ,{"title":"Bread","category":"components","source":"https://tastesbetterfromscratch.com/bread-recipe/","image":"bread.jpg","veggie":"✓","htmlfile":"bread.html","vegan":"✓","size":"2 loaves"}
+,{"title":"Bruschetta","category":"mains","htmlfile":"bruschetta.html"}
 ,{"title":"Butter Chicken","category":"curries","source":"https://www.recipetineats.com/butter-chicken/","htmlfile":"butter-chicken.html"}
 ,{"title":"Caponata Pasta","category":"dinner","image":"caponata-pasta.jpg","veggie":"✓","htmlfile":"caponata-pasta.html"}
 ,{"title":"Caramel Tart","category":"desserts","image":"caramel-tart.jpg","description":"This recipe comes from Lauren who enjoys a good caramel tart","htmlfile":"caramel-tart.html"}
@@ -22,9 +23,12 @@
 ,{"title":"Chocolate Mud Cake","category":"desserts","htmlfile":"chocolate-mud-cake.html"}
 ,{"title":"Chocolate Squares","category":"snacks","image":"chocolate-squares.jpg","description":"Guinane family recipe, slightly changed each generation.","htmlfile":"chocolate-squares.html"}
 ,{"title":"Cob Loaf","category":"sides","image":"cob-loaf.jpg","htmlfile":"cob-loaf.html"}
+,{"title":"Coconut Ice","category":"snacks","source":"https://www.cookingwithnanaling.com/coconut-ice/","htmlfile":"coconut-ice.html"}
 ,{"title":"Creamy Potato Salad","category":"salads","image":"creamy-potato-salad.jpg","htmlfile":"creamy-potato-salad.html"}
+,{"title":"Crepes","category":"desserts","source":"https://www.recipetineats.com/crepes/","htmlfile":"crepes.html"}
 ,{"title":"Crustless Quiche","category":"snacks","htmlfile":"crustless-quiche.html"}
 ,{"title":"Date and Nut Balls","category":"snacks","htmlfile":"date-and-nut-balls.html"}
+,{"title":"Devil on Horseback","category":"sides","htmlfile":"devil-on-horseback.html"}
 ,{"title":"Finger Buns","category":"snacks","source":"https://www.womensweeklyfood.com.au/recipe/baking/finger-buns-15332/","htmlfile":"finger-buns.html","size":"16 buns"}
 ,{"title":"Flatbread","category":"components","source":"https://www.recipetineats.com/easy-soft-flatbread-yeast/","veggie":"✓","htmlfile":"flatbread.html"}
 ,{"title":"Fruit Scones","category":"snacks","image":"fruit-scones.jpg","htmlfile":"fruit-scones.html"}
@@ -60,6 +64,7 @@
 ,{"title":"Pad Thai","category":"mains","image":"pad-thai.jpg","htmlfile":"pad-thai.html"}
 ,{"title":"Party Punch","category":"drinks","image":"party-punch.jpg","description":"The famous Grimes party punch recipe from uni.","htmlfile":"party-punch.html"}
 ,{"title":"Passata","category":"components","image":"passata.jpg","veggie":"✓","htmlfile":"passata.html","vegan":"✓"}
+,{"title":"Pastry","category":"components","htmlfile":"pastry.html"}
 ,{"title":"Pavlova","category":"desserts","source":"https://tastesbetterfromscratch.com/bread-recipe/","image":"pavlova.jpg","htmlfile":"pavlova.html"}
 ,{"title":"Peanut Butter Caramel Slice","category":"snacks","image":"peanut-butter-caramel-slice.jpg","htmlfile":"peanut-butter-caramel-slice.html"}
 ,{"title":"Pikelets","category":"snacks","image":"pikelets.jpg","htmlfile":"pikelets.html","size":"10 pikelets"}
@@ -79,6 +84,7 @@
 ,{"title":"Spinach and Paneer Saag","category":"curries","image":"spinach-and-paneer-saag.jpg","veggie":"✓","htmlfile":"spinach-and-paneer-saag.html","vegan":"✓"}
 ,{"title":"Sticky Date Pudding","category":"desserts","image":"sticky-date-pudding.jpg","htmlfile":"sticky-date-pudding.html"}
 ,{"title":"Sushi Rolls","category":"mains","htmlfile":"sushi-rolls.html"}
+,{"title":"Sushi","category":"mains","htmlfile":"sushi.html"}
 ,{"title":"Sweet Potato Mushroom &amp; Two Bean Cottage Pie","category":"mains","htmlfile":"sweet-potato-mushroom-two-bean-cottage-pie.html"}
 ,{"title":"Sweet Potato Salad","category":"salads","image":"sweet-potato-salad.jpg","htmlfile":"sweet-potato-salad.html"}
 ,{"title":"Teriyaki Eggplant Stir-Fry","category":"dinner","image":"teriyaki-eggplant-stir-fry.jpg","veggie":"✓","htmlfile":"teriyaki-eggplant-stir-fry.html"}
